@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo: 100,200,300,400,500,600,700&display=swap');
+
+
 
 * {
     margin: 0;
@@ -143,3 +146,4 @@ h2{
     padding-left: 50px;
     padding-bottom: 50px;
     padding-right: 50px;
+}
