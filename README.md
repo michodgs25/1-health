@@ -9,7 +9,7 @@ UX-
 This website for users who want to visit a site that talks about the importance of mental, physical and nutritional health in a visual manner.
 The major information substance of the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individual to take control of their personal health.
 
-Social media platforms such as instagram and snapchat has inspired the user experience for this website; minimal text and 
+Social media platforms such as instagram and snapchat has inspired the user experience for this website; minimal text and a combination of clips& images.
 
 Features-
 
