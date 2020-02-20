@@ -30,16 +30,18 @@ The conversation around health is constantlty evolving; a blog or similar featur
 More clips to be inputted; clips are the primary substance of the site thus more verified footage that is engaging, the greater the substance of the website.
 
 Technologies-
-Wrote the code in git-pod
+Wrote the code in git-pod.
 The two primary languages used are HTML and CSS.
-Semantic language structure employed Header, Nav, Section and Footer.
+Applied semantic language structure employed Header, Nav, Section and Footer.
 
 
 Testing-
-
+i. Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers.
+ii. On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet.
 
 
 Deployment-
+
 
 
 Credits-
