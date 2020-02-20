@@ -26,12 +26,13 @@ The footer feature allows users to investigate further on mental, physical and n
 
 
 Features left to implement-
-The consversation around health is constantlty evolving; a blog or similar feature where users can input their own mental health experience.
-
+The conversation around health is constantlty evolving; a blog or similar feature where users can input their own mental health experience.
+More clips to be inputted; clips are the primary substance of the site thus more verified footage that is engaging, the greater the substance of the website.
 
 Technologies-
-
-
+Wrote the code in git-pod
+The two primary languages used are HTML and CSS.
+Semantic language structure employed Header, Nav, Section and Footer.
 
 
 Testing-
