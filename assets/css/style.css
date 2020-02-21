@@ -90,11 +90,19 @@ h2{
     font-family: Exo;
     clear: both;
     color: #777777;
-    line-height: 50px;
     padding-top: 50px;
     padding-left: 50px;
     padding-bottom: 50px;
     padding-right: 50px;
+}
+
+.container p {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+
 }
 
 <!--images-section-->
@@ -118,15 +126,18 @@ h2{
 
 #quotes {
     clear: both;
-    padding-top: 50px;
+    padding-top: 500px;
     padding-left: 5px;
     padding-bottom: 5px;
-    padding-right: 5px;
+    padding-right: 10px;
     }
 
 
 #quotes img {
     border-radius: 30px;
+    width: 240px; 
+    height: 500px;
+    align: center;
 }
 
 
@@ -144,13 +155,6 @@ footer {
     text-transform: uppercase;
     letter-spacing: 10px;
     color: #676;
-}
-
-<!---footer-heading-->
-
-#footer-header h2 {
-    text-align: left;
-    padding-left: 50px;
 }
 
 <!--footer-links-->
