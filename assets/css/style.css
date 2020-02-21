@@ -8,10 +8,6 @@
     border: 0;
 }
 
-body {
-    font-family: Roboto;
-    color: black;
-}
 
 h2{
     font-family: Exo;
@@ -32,12 +28,6 @@ h2{
 }
 
 
-#menu {
-    font-size: 200%;
-    list-style-type: none;
-    letter-spacing: 1px;
-    padding-top: 200px;
-}
 
 #logo {
     line-height: 70px;
@@ -45,6 +35,14 @@ h2{
     border-bottom-right-radius: 100px;
     border: hidden;
     
+}
+
+
+#menu {
+    font-size: 200%;
+    list-style-type: none;
+    letter-spacing: 1px;
+    padding-top: 200px;
 }
     
     
@@ -86,52 +84,76 @@ h2{
 }
 
 
+<!--text-section-->
+
+#para-intro  {
+    font-family: Exo;
+    clear: both;
+    color: #777777;
+    line-height: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+<!--images-section-->
+
 #health-picture {
     clear: both;
-    padding-top: 20px;
+    padding-top: 50px;
     padding-left: 5px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     padding-right: 5px;
 }
+
 
 #health-picture img {
     border-radius: 30px;
 }
 
+
+<--quotes-section-->
+
+
 #quotes {
     clear: both;
-    padding-top: 20px;
-    padding-left: 30px;
-    padding-bottom: 20px;
-    padding-right: 25px;
+    padding-top: 50px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
     }
 
 
 #quotes img {
     border-radius: 30px;
-    border-style: 1px solid yellow;
 }
+
+
+
+<!--footer-section-->
+
+footer {
+    height: 150px;
+}
+
 
 #footer-header {
-    padding-left: 80px;
-    border-radius: 30px;
-    clear: both;
+    padding-top: 150px;
+    font-family: Exo;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #676;
 }
 
+<!---footer-heading-->
 
-#other-health {
-    clear: both;
-    padding-top: 100px;
-    padding-left: 100px;
-    padding-bottom: 100px;
-    padding-right: 100px;
+#footer-header h2 {
+    text-align: left;
+    padding-left: 50px;
 }
 
-
-#other-health img {
-    border-radius: 100px;
-
-}
+<!--footer-links-->
 
 #other-health a {
     text-decoration: none;
@@ -144,16 +166,26 @@ h2{
 }
 
 
-#para-intro  {
-    font-family: Exo;
-    clear: both;
-    color: #777777;
-    line-height: 50px;
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
+#other-health li {
+    list-style-type: none;
+    text-align: center;
 }
+
+
+.footer li {
+    display:inline;
+}
+
+
+
+.footer i {
+    font-size: 500%;
+    margin: 4%;
+    padding: 5%;
+    color: black;
+}
+
+
 
 @media screen and (max-width: 800px) {
     #menu, #health-picture, #home-video, #quotes, #footer-header, #other-health {
