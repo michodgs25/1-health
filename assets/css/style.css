@@ -42,7 +42,7 @@ h2{
     font-size: 200%;
     list-style-type: none;
     letter-spacing: 1px;
-    padding-top: 200px;
+    padding-top: 150px;
 }
     
     
@@ -74,14 +74,18 @@ h2{
     clear: both;
     padding-top: 50px;
     padding-left: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 50px;
     padding-right: 5px;
+
 }
+
 
 #home-video iframe {
     border-radius: 30px;
-
+    width: 500px;
+    height: 300px;
 }
+
 
 
 <!--text-section-->
@@ -127,8 +131,8 @@ h2{
 #quotes {
     clear: both;
     padding-top: 500px;
-    padding-left: 5px;
-    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-bottom: 10px;
     padding-right: 10px;
     }
 
