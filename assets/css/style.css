@@ -100,6 +100,8 @@ h2{
     padding-right: 50px;
 }
 
+
+
 .container p {
     padding-top: 50px;
     padding-left: 50px;
@@ -109,10 +111,18 @@ h2{
 
 }
 
+
+
+
+
+
 <!--images-section-->
 
-#health-picture {
-    clear: both;
+
+#health-picture img {
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
     padding-top: 50px;
     padding-left: 5px;
     padding-bottom: 5px;
@@ -120,9 +130,9 @@ h2{
 }
 
 
-#health-picture img {
-    border-radius: 30px;
-}
+
+
+
 
 
 <--quotes-section-->
@@ -130,18 +140,14 @@ h2{
 
 #quotes {
     clear: both;
-    padding-top: 500px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
     }
+
 
 
 #quotes img {
     border-radius: 30px;
     width: 240px; 
     height: 500px;
-    align: center;
 }
 
 
@@ -151,6 +157,7 @@ h2{
 footer {
     height: 150px;
 }
+
 
 
 #footer-header {
@@ -169,15 +176,19 @@ footer {
 }
 
 
+
+
 #other-health a:hover {
     border-bottom: 1px solid yellow;
 }
+
 
 
 #other-health li {
     list-style-type: none;
     text-align: center;
 }
+
 
 
 .footer li {
@@ -195,7 +206,7 @@ footer {
 
 
 
-@media screen and (max-width: 800px) {
+@media-screen and (max-width: 800px) {
     #menu, #health-picture, #home-video, #quotes, #footer-header, #other-health {
         width: 65%;
         height: 1200px;
