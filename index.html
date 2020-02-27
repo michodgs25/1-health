@@ -1,113 +1,123 @@
-<html lang="en-US">
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<title>1 Health</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+	<!--css-->
+	<link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
 	<!--Font awesome-->
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 	<!--Bootstrap-->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<title>1 Health</title>
 </head>
 
-<!-- Home page -->
+<!-- Home page content-->
 
 <body>
+	<!--title logo-->
 	<header>
 		<a href="index.html">
 			<h2 id="logo">1 Health</h2>
 		</a>
-		<nav>
-			<ul id="menu">
-				<li>
-					<a href="nutrition.html">Eat Well</a>
-				</li>
-				<li>
-					<a href="Physical-health.html">Physical Health</a>
-				</li>
-				<li>
-					<a href="mental-health.html">Mental Health</a>
-				</li>
-				<li>
-					<a class="active" href="index.html">Home</a>
-				</li>
-			</ul>
+		<nav class="navbar navbar light" id="menu">
+			<!--Navigation section-->
+			<div class="container">
+				<div class="col-12">
+					<ul class="navbar-nav mr-auto">
+						<li>
+							<a class="active nav-item mr-2" href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="mental-health.html">Mental Health</a>
+						</li>
+						<li>
+							<a href="Physical-health.html">Physical Health</a>
+						</li>
+						<li>
+							<a href="nutrition.html">Eat Well</a>
+						</li>
+					</ul>
+				</div>
+			</div>
 		</nav>
 	</header>
 
 	<!--Home page clips-->
 
-	<section id="home-video">
-		<!--Three clips horizonatally aligned-->
-		<div class="container">
-			<div class="row-row-cols-3">
-				<li><iframe src="https://www.youtube.com/embed/oVTz-2R6V3U" frameborder="0"
+	<div class="container mt-3">
+		<!--Three clips introducing health-->
+		<div class="row">
+			<div class="col-12">
+				<section id="clips">
+					<iframe src="https://www.youtube.com/embed/oVTz-2R6V3U" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-				<li class="col"><iframe src="https://www.youtube.com/embed/nCrjevx3-Js" frameborder="0"
+						allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/nCrjevx3-Js" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-				<li class="col"><iframe src="https://www.youtube.com/embed/zJgHbifIx-Q" frameborder="0"
+						allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/zJgHbifIx-Q" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-				</ul>
+						allowfullscreen></iframe>
 			</div>
 		</div>
+	</div>
 	</section>
 
 	<!--home page images-->
 
-	<section id="health-picture">
+	<div class="container mt-3">
 		<!--Three images horizontally aligned-->
-		<div class="container">
-			<div class="row-row-cols-3">
-				<ul>
-					<li><img src="https://s3-us-west-1.amazonaws.com/asianjournal-ca/wp-content/uploads/2015/11/exercise.jpg" alt="Group-running in the sun"></li>
-					<li><img src="https://images.ctfassets.net/yixw23k2v6vo/3m1t2F50zSE2UQSOu2Sm4S/aa39fb98cd33b0f76b387c8b769e289b/iStock-847774062.jpg?w=600&h=400&fm=jpg&fit=thumb&q=65&fl=progressive" alt="Women smiling whilst participating in group exercise"></li>
-					<li><img src="https://healthmagazine.news/wp-content/uploads/2018/01/400-05687458c.jpg" alt="Young Woman eating salad"></li>
-				</ul>
+		<div class="row">
+			<div class="col-12">
+				<section id="health-picture">
+					<img src="https://s3-us-west-1.amazonaws.com/asianjournal-ca/wp-content/uploads/2015/11/exercise.jpg" alt="Group-running in the sun">
+					<img src="https://images.ctfassets.net/yixw23k2v6vo/3m1t2F50zSE2UQSOu2Sm4S/aa39fb98cd33b0f76b387c8b769e289b/iStock-847774062.jpg?w=600&h=400&fm=jpg&fit=thumb&q=65&fl=progressive" alt="Women smiling whilst participating in group exercise">
+					<img src="https://healthmagazine.news/wp-content/uploads/2018/01/400-05687458c.jpg" alt="Young Woman eating salad">
+                    </div>
 			</div>
-	</section>
+		</div>
+		</section>
 
-	<!--Home page quotes-->
+		<!--Home page quotes-->
 
-	<section id="quotes">
-		<!--Six quotes pics on each page used aligned horizontally-->
 		<div class="container">
-			<div class="row-row-cols-6">
-				<ul>
-					<li><img src="https://img.picturequotes.com/2/546/545088/workout-quote-1.jpg" alt="Workout quote: Exercising makes me happy!"></li>
-					<li><img src="https://i.pinimg.com/originals/ae/c3/31/aec33141c5b6879d1c3c4de2c73afe10.png" alt="Mental Health Quote: make your mental health a priority."></li>
-					<li><img src="https://s-media-cache-ak0.pinimg.com/736x/c7/f7/de/c7f7de6e22082e4b6ac6759f979121b3.jpg" alt="eat well quote: A healthy outside starts from the inside"></li>
-					<li><img src="https://i.pinimg.com/originals/2b/32/33/2b3233c058799543a85cecd557592ed0.jpg" alt="exercise quote: exercise is a celebration of what your body body can do. Not a punishment for what you ate."></li>
-					<li><img src="https://i.pinimg.com/originals/8e/5e/c0/8e5ec0f44081928206f772a278baa745.jpg" alt="Mental health: love yourself more."></li>
-					<li><img src="https://healz.in/wp-content/uploads/2015/10/quote1-1140x1140.png" alt="Eat Well. Move daily. Hydrate often. Sleep lots. Love your body."></li>
-				</ul>
+			<!--Six quotes-pictures pics on each page used aligned horizontally-->
+			<div class="row">
+				<div class="col-12">
+					<section id="quotes">
+						<img src="https://img.picturequotes.com/2/546/545088/workout-quote-1.jpg" alt="Workout quote: Exercising makes me happy!">
+						<img src="https://i.pinimg.com/originals/ae/c3/31/aec33141c5b6879d1c3c4de2c73afe10.png" alt="Mental Health Quote: make your mental health a priority.">
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c7/f7/de/c7f7de6e22082e4b6ac6759f979121b3.jpg" alt="eat well quote: A healthy outside starts from the inside">
+						<img src="https://i.pinimg.com/originals/2b/32/33/2b3233c058799543a85cecd557592ed0.jpg" alt="exercise quote: exercise is a celebration of what your body body can do. Not a punishment for what you ate.">
+						<img src="https://i.pinimg.com/originals/8e/5e/c0/8e5ec0f44081928206f772a278baa745.jpg" alt="Mental health: love yourself more.">
+						<img src="https://healz.in/wp-content/uploads/2015/10/quote1-1140x1140.png" alt="Eat Well. Move daily. Hydrate often. Sleep lots. Love your body.">
+					</div>
+				</div>
 			</div>
-	</section>
+			</section>
 
-	<!--Home page footer/Links to other sites regarding health-->
+			<!--Home page footer/Links to other sites regarding health-->
 
 
-	<footer>
-		<h2 id="footer-header" class="container">Further health</h2>
-		<!--Footer header-->
+			<footer>
+				<h2 id="footer-header" class="container">Further health</h2>
+				<!--Footer header-->
 
-		<ul id="other-health" class="footer">
-			<li><a href="https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active"
-					target="_blank"><i class="fas fa-running"></i></a></li>
-			<li><a href="https://www.nhs.uk/oneyou/every-mind-matters/" target="_blank"><i class="fas fa-brain"></i></a>
-			</li>
-			<li><a href="https://www.nhs.uk/live-well/eat-well/" target="_blank"><i class="fas fa-utensils"></i></a>
-			</li>
-			<li><a href="https://www.who.int/behealthy" target="_blank"><i class="fas fa-heartbeat"></i></a></li>
-		</ul>
-	</footer>
+				<ul id="other-health" class="footer">
+					<li><a href="https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active"
+							target="_blank"><i class="fas fa-running"></i></a></li>
+					<li><a href="https://www.nhs.uk/oneyou/every-mind-matters/"
+							target="_blank"><i class="fas fa-brain"></i></a>
+					</li>
+					<li><a href="https://www.nhs.uk/live-well/eat-well/"
+							target="_blank"><i class="fas fa-utensils"></i></a>
+					</li>
+					<li><a href="https://www.who.int/behealthy" target="_blank"><i class="fas fa-heartbeat"></i></a>
+					</li>
+				</ul>
+			</footer>
 </body>
 
 </html>
