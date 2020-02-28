@@ -34,25 +34,18 @@ h2{
 
 
 #menu {
-    font-size: 280%;
-    letter-spacing: 1px;
+    line-height: 70px;
+    font-size: xx-large;
     padding-top: 10%;
-    list-style-type: none;
-}
+    margin: 4%;
+    border-spacing: 10%;
+    }
+
 
 #menu li {
-    text-align: left;
-    margin: 2%;
-    margin-bottom: 30px;
+    letter-spacing: 2px;
+    margin-left: 50px;
 }
-
-
-
-#menu a {
-    text-decoration: none;
-    color: #676;
-}
-
 
 
 #menu a:hover {
@@ -60,17 +53,54 @@ h2{
 }
 
 
-.active {
-    border-bottom: 1px solid #777777;
-}
-
-
-
 #clips {
-    
+    clear: both;
+    list-style-type: none;
+    padding-left: 4%; 
+    padding-bottom: 1%;
 }
 
-#
+#clips iframe {
+    width: 470px;
+    height: 300px;
+    border-radius: 30px;
+    align: center;
+    border-spacing: 10%;
+}
+
+
+#health-picture {
+    clear: both;
+    list-style-type: none;
+    padding-left: 4%; 
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+
+#health-picture img {
+    width: 470px;
+    height: 300px;
+    border-radius: 30px;
+    align: center;
+    border-spacing: 10%;
+}
+
+
+#quotes {
+    clear: both;
+    list-style-type: none;
+    padding-left: 4%; 
+    padding-top: 2%;
+}
+
+#quotes img {
+    width: 230px;
+    height: 500px;
+    border-radius: 30px;
+    align: center;
+    border-spacing: 10%;
+}
 
 
 <!--text-section-->
