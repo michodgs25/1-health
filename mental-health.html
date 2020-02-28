@@ -11,8 +11,8 @@
 		<!--Font awesome-->
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 		<!--Bootstrap-->
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-		<link rel="stylesheet" href="https//maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+			integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 		<title>Mental Health</title>
 	</head>
 
@@ -21,45 +21,53 @@
 
 	<!-- Mental Health content -->
 
+	<!--title logo-->
 	<header>
 		<a href="index.html">
-			<h2 id="logo">Mental Health</h2>
+			<h2 id="logo">1 Health</h2>
 		</a>
-		<nav>
-			<ul id="menu">
-				<li>
-					<a href="nutrition.html">Eat Well</a>
-				</li>
-				<li>
-					<a href="Physical-health.html">Physical Health</a>
-				</li>
-				<li>
-					<a href="mental-health.html">Mental Health</a>
-				</li>
-				<li>
-					<a href="index.html">Home</a>
-				</li>
-			</ul>
+		<nav class="navbar navbar light" id="menu">
+			<!--Navigation section-->
+			<div class="container">
+				<div class="col-12">
+					<ul class="navbar-nav mr-auto">
+						<li>
+							<a class="active nav-item mr-2" href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="mental-health.html">Mental Health</a>
+						</li>
+						<li>
+							<a href="Physical-health.html">Physical Health</a>
+						</li>
+						<li>
+							<a href="nutrition.html">Eat Well</a>
+						</li>
+					</ul>
+				</div>
+			</div>
 		</nav>
 	</header>
 
 	<!--Mental health clips-->
 
-	<section id="clips">
+	<div class="container mt-3">
 		<!--Three clip horizontally-->
-		<div>
-			<ul>
-				<li><iframe src="https://www.youtube.com/embed/N5qTvdFFW8c" frameborder="0"
+		<div class="row">
+			<div class="col-12">
+				<section id="clips">
+					<iframe src="https://www.youtube.com/embed/N5qTvdFFW8c" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-				<li><iframe src="https://www.youtube.com/embed/DxIDKZHW3-E" frameborder="0"
+						allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/DxIDKZHW3-E" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-				<li><iframe src="https://www.youtube.com/embed/Yn_shQZz5tw" frameborder="0"
+						allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/Yn_shQZz5tw" frameborder="0"
 						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen></iframe></li>
-			</ul>
+						allowfullscreen></iframe>
+			</div>
 		</div>
+	</div>
 	</section>
 
 	<!--text section/minimal text is to be used -->
@@ -67,8 +75,10 @@
 	<section id="para-intro" class="container">
 		<!--All miniimal text to be used in a container-->
 		<blockquote>
-			<p>Mental health affects every human being, from your average joe to sport stars and other famous names;
-				talking openly with each other about mental is very important. discussing mental health brings people
+			<p>Mental health affects every human being, from your average joe to sport stars and other famous
+				names;
+				talking openly with each other about mental is very important. discussing mental health brings
+				people
 				together and empathize with each other.
 		</blockquote>
 	</section>
@@ -91,8 +101,10 @@
 	<section id="para-intro" class="container">
 		<!--All minimal text to be used in a container-->
 		<blockquote>
-			<p>The biggest challenge facing raising awareness of mental health; is the stigma surrounding this type of
-				health. Mental health in the past has been dismissed or ignored; mental health awareness is rising
+			<p>The biggest challenge facing raising awareness of mental health; is the stigma surrounding this
+				type of
+				health. Mental health in the past has been dismissed or ignored; mental health awareness is
+				rising
 				thanks to people standing up and talking about it.</p>
 		</blockquote>
 	</section>
@@ -126,7 +138,8 @@
 			</li>
 			<li><a href="https://www.nhs.uk/live-well/eat-well/" target="_blank"><i class="fas fa-utensils"></i></a>
 			</li>
-			<li><a href="https://www.who.int/behealthy" target="_blank"><i class="fas fa-heartbeat"></i></a></li>
+			<li><a href="https://www.who.int/behealthy" target="_blank"><i class="fas fa-heartbeat"></i></a>
+			</li>
 		</ul>
 	</footer>
 </body>
