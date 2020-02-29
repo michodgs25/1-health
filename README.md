@@ -10,13 +10,20 @@ Social media platforms such as instagram and snapchat has inspired the user expe
 
 Features- Logo on the far top left side of the page, with the menu horizontally aligned with the logo. Three images displayed horizontally aligned; images are tailored to each particular health type. Directly below are three clips displayed, aligned horizontally and discuss health in a entertaining, emotional and engaging way. In mental, physical and nutrition pages there are minimal texts that alude to my own personal thoughts on those health subjects. Six quote-images on each page as inspiration to the viewer that relates the health subject in a short artistic manner. On each page is a footer that three links to external site, for the viewer to visit and discover more about health.
 
-Existing Features- The menu feature allows the user to move from home page, mental health, physical health and eat well pages. The clips feature brings the conversation the viewer in a entertaining and engaging manner, for example one clip features famous boxer/athlete Tyson Fury who is well known for his mental health issues and he talks openly about his mental health thus encourages others to do the same. The footer feature allows users to investigate further on mental, physical and nutrition health.
+Existing Features- The menu feature allows the user to move from home page, mental health, physical health and eat well pages. 
+A navigation bar underneath the logo/header spread horizontally across the page; this allows the user to access each page seamlessly.
+The clips feature brings the conversation the viewer in a entertaining and engaging manner, for example one clip features famous boxer/athlete Tyson Fury who is well known for his mental health issues and he talks openly about his mental health thus encourages others to do the same.
+The footer feature allows users to investigate further on mental, physical and nutrition health.
 
 Features left to implement- The conversation around health is constantlty evolving; a blog or similar feature where users can input their own mental health experience. More clips to be inputted; clips are the primary substance of the site thus more verified footage that is engaging, the greater the substance of the website.
 
-Technologies- Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer.
+Technologies- Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer.
 
 Testing- i. Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. ii. On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet.
+
+How the site looks on different mobile device screens was a major challenge of this project; especially having a horizontal menu bar. Using a bootstrap style collapse menu which has been implemented specifically for screen widths 990px and below; so users can still switch between pages relatively easy.  
+Different screen sizes is major test of the structural integrity, different screen sizes were explored using google dev tools.
+
 
 Deployment-
 
