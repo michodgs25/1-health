@@ -50,9 +50,9 @@ Credits-
 Content-
 
 All video content belong to YouTube and its respective creators.
-All images and quote-images were taken from googe images and belongs to the owner.
+All images and quote-images were taken from googe images and belongs to the owner of those images.
 
-
+Texts used on website-
 
 "Mental health affects every human being, from your average joe to sport stars and other famous names;
 talking openly with each other about mental is very important. discussing mental health brings people together and empathize with each other." https://www.nhs.uk/oneyou/every-mind-matters/
@@ -60,6 +60,8 @@ talking openly with each other about mental is very important. discussing mental
 "The biggest challenge facing raising awareness of mental health; is the stigma surrounding this type of health. Mental health in the past has been dismissed or ignored; mental health awareness is rising thanks to people standing up and talking about it."  https://www.nhs.uk/oneyou/every-mind-matters/
 
 "Eating properly is important part of health and development. Better nutrition is related to improved infant, child and maternal health, stronger immune systems, safer pregnancy and childbirth, lower risk of non-communicable diseases (such as diabetes and cardiovascular disease), and longevity."  https://www.nhs.uk/live-well/eat-well/
+
+"Poor nutrition can lead to a lack of energy, digestive problems, food allergies, weight gain, depression and anxiety as well as many of today’s most prevalent chronic diseases." https://www.nhs.uk/live-well/eat-well/
 
 
         
