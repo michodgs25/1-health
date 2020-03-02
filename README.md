@@ -4,7 +4,6 @@ Code institute and learning people first assessment project.
 
 Mental health is such an important discussion that is gaining serious awareness in the past few years. The idea behind the creation of the website is creating a platform that brings together images/clips and artistic quotes about mental, physical and nutrition health.
 
-<<<<<<< HEAD
 UX-
 
 This website for users who want to visit a site that talks about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
@@ -16,7 +15,7 @@ Features-
 Logo on the far top left side of the page, with the menu/ navigation left-center horizontally below the logo/header. Three clips displayed horizontally aligned; three images directly below and clips are tailored to each particular health type. Then directly below the images/text are six different images with inspiring quotes around that health type.
 
 In mental, physical and nutrition pages there are minimal texts that are taken from sites such as the British heart foundation and WHO (World health organisation. on those health subjects.
-=======
+
 UX- 
 
 This website for users who want to visit a site that talks about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health.
@@ -79,8 +78,7 @@ Deployment-
 <<<<<<< HEAD
 Deployed the site to github.
 =======
-Deployed the site to github. 
->>>>>>> aa01af51a09244fd9a7d4de80af443f4f701b901
+
 
 Credits-
 
