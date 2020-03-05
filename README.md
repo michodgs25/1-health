@@ -24,6 +24,11 @@ The site acts as a vehicle for users to look further into health via footer link
 
 Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images are the foundation.
 
+Wireframe.docx - https://b6400295-cd24-4fb4-b574-03b2bc73b3b1.ws-eu01.gitpod.io/files/download/?id=75c4e8d8-19c8-4edb-86fa-6405dd7e08b6
+WireFrame-2.docx - https://b6400295-cd24-4fb4-b574-03b2bc73b3b1.ws-eu01.gitpod.io/files/download/?id=b6e82c9f-043f-4e81-9adf-ca924497737d
+
+The Wireframe documents above allowed the designer(myself) to follow a mobile first approach prioritising the content that should be included on the site.
+
 Features- 
 
 Logo on the far top left side of the page, with the menu/ navigation left-center horizontally below the logo/header. 
@@ -88,9 +93,14 @@ I ran my site locally by typing: python3 -m http.server in the terminal, open po
 Link to website on github - https://michodgs24.github.io/1-health/
 
 In deployed version on the site, the site looks how it should. The navigation bar, clips and footer links all work as intended. 
+
+
+
 Content-
 
 All video content belong to YouTube and its respective creators. All images and quote-images were taken from googe images and belongs to the owner of those images.
+
+
 
 Texts used on website-
 
@@ -108,7 +118,11 @@ Texts used on website-
 
 Media-
 
-Home page media This picture was found via google images and belongs to this site- https://s3-us-west-1.amazonaws.com/asianjournal-ca/wp-content/uploads/2015/11/exercise.jpg
+Home page media- 
+
+
+
+This picture was found via google images and belongs to this site- https://s3-us-west-1.amazonaws.com/asianjournal-ca/wp-content/uploads/2015/11/exercise.jpg
 
 This picture was found via google images and belongs to this site https://images.ctfassets.net/yixw23k2v6vo/3m1t2F50zSE2UQSOu2Sm4S/aa39fb98cd33b0f76b387c8b769e289b/iStock-847774062.jpg?w=600&h=400&fm=jpg&fit=thumb&q=65&fl=progressive
 
@@ -131,6 +145,8 @@ This picture was found via google images and belongs to this site- https://i.pin
 This picture was found via google images and belongs to this site- https://i.pinimg.com/originals/8e/5e/c0/8e5ec0f44081928206f772a278baa745.jpg
 
 This picture was found via google images and belongs to this site- https://healz.in/wp-content/uploads/2015/10/quote1-1140x1140.png
+
+
 
 -Mental-health page media
 
@@ -158,6 +174,10 @@ This picture was found via google images and belongs to this site- https://i.pin
 
 This picture was found via google images and belongs to this site- https://i.pinimg.com/736x/3b/b0/fd/3bb0fd48f88796d08ad8fdeb146a9653.jpg
 
+
+
+
+
 -Nutrition media This picture was found via google images and belongs to this site- https://www.ift.org/-/media/news-and-publications/by-topic/foodhealthnutrition.jfif
 
 This picture was found via google images and belongs to this site- https://ofy.org/wp-content/uploads/2016/01/OFY-eating-healthy.jpg
@@ -181,6 +201,9 @@ This picture was found via google images and belongs to this site- https://i.pin
 This picture was found via google images and belongs to this site- https://acewebcontent.azureedge.net/fit-life/2016/08%20-%20Fit%20Life%20/2016-02-08-Inspiring-Health-Fitness-Quotes-to-Get-You-Moving-02.jpg
 
 This picture was found via google images and belongs to this site- https://www.askideas.com/wp-content/uploads/2016/12/Eat-good-feel-good.jpg
+
+
+
 
 -Physical health media
 
@@ -214,8 +237,5 @@ This picture was found via google images and belongs to this site-https://assets
 
 Acknowledgements-
 
-<<<<<<< HEAD
 I'd like to acknowldge code institute love running walk through project which I took inspiration from.
-=======
-I'd like to acknowldge code institute love running walk through project which I took inspiration from.
->>>>>>> 59e20da10103115aa859c40ef195afcac7671fac
+Social media platforms such as instagram and snapchat has inspired the user experience for this website. 
