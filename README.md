@@ -15,8 +15,7 @@ Features-
 Logo on the far top left side of the page, with the menu/ navigation left-center horizontally below the logo/header. Three clips displayed horizontally aligned; three images directly below and clips are tailored to each particular health type. Then directly below the images/text are six different images with inspiring quotes around that health type.
 
 In mental, physical and nutrition pages there are minimal texts that are taken from sites such as the British heart foundation and WHO (World health organisation. on those health subjects.
-<<<<<<< HEAD
-=======
+
 
 UX- 
 
@@ -49,8 +48,6 @@ The conversation around health is constantlty evolving; a blog or similar featur
 Technologies- 
 
 Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer.
->>>>>>> aa01af51a09244fd9a7d4de80af443f4f701b901
->>>>>>> 59e20da10103115aa859c40ef195afcac7671fac
 
 Six quote-images on each page as inspiration to the viewer that relates the health subject in a short artistic manner. On each page is a footer that three links to external sites, for the viewer to visit and discover more about health.
 
@@ -73,16 +70,12 @@ How the site looks on different mobile device screens was a major challenge of t
 Deployment-
 
 Deployed the site to github.
-<<<<<<< HEAD
-=======
-=======
-
->>>>>>> 59e20da10103115aa859c40ef195afcac7671fac
 
 I ran my site locally by typing: python3 -m http.server in the terminal, open port 8000 and refresh the browser as initially the page does not load.
 
+Link to website on github - https://michodgs24.github.io/1-health/
 
-
+In deployed version on the site, the site looks how it should. The navigation bar, clips and footer links all work as intended. 
 Content-
 
 All video content belong to YouTube and its respective creators. All images and quote-images were taken from googe images and belongs to the owner of those images.
