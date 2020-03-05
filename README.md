@@ -63,9 +63,21 @@ Technologies-
 
 Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer.
 
-Testing- i. Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. ii. On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet.
+Testing - i. Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. ii. On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet.
+Testing - ii. Logged into different devices and tested my site link; which worked as intended.
+Testing - iii. Shared site link to course mentor, whom confirmed the link worked as intended.
 
 How the site looks on different mobile device screens was a major challenge of this project; especially having a horizontal menu bar. Using a bootstrap style collapse menu which was implemented to help users on mobile devices. Unfortunately the menu once on mobile devices ends up vertically and very far left which affect user experiecne but is still usuable. Different screen sizes is major test of the structural integrity, different screen sizes were explored using google dev tools. The content still flowed like it should down the page on mobile devices. But improvement can be made further with the content filling the screen and the naviagation bar shrinking to fit the which ever screen size it is on.
+
+
+Version control- 
+
+Version control was conducted through following consistent updates through git-pod to git-hub project page.
+i. Git add.
+ii. Git commit -m "insert message".
+iii. Git Push that updates the existing files in git-hub. 
+
+
 
 Deployment-
 
