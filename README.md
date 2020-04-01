@@ -2,35 +2,25 @@
 
 Code institute and learning people first assessment project.
 
-Mental health is such an important discussion that is gaining serious awareness in the past few years. The idea behind the creation of the website is creating a platform that brings together images/clips and artistic quotes about mental, physical and nutrition health.
+Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. 
+The idea behind the creation of the website is providing a platform that brings together images plus clips and artistic quotes on mental, physical and nutrition health.
+General health contributes towards an individuals happiness and productivity in their daily lives personally and professional. 
+This site aims to act as an education tool plus act as a vehicle to learn more and improve their own general health.
+
 
 UX-
 
-This website for users who want to visit a site that talks about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
+This website for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
 
 Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images. 
 The clips taken from youtube is the major focus of user experience.
-
-Features-
-
-Logo on the far top left side of the page, with the menu/ navigation left-center horizontally below the logo/header. Three clips displayed horizontally aligned; three images directly below and clips are tailored to each particular health type. Then directly below the images/text are six different images with inspiring quotes around that health type.
-
-In mental, physical and nutrition pages there are minimal texts that are taken from sites such as the British heart foundation and WHO (World health organisation. on those health subjects.
-
-
-UX- 
-
-This website for users who want to visit a site that talks about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website is the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health.
-The site acts as a vehicle for users to look further into health via footer links and youtube clips.
-
-Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images are the foundation.
 
 Wireframe.docx - https://b6400295-cd24-4fb4-b574-03b2bc73b3b1.ws-eu01.gitpod.io/files/download/?id=75c4e8d8-19c8-4edb-86fa-6405dd7e08b6
 WireFrame-2.docx - https://b6400295-cd24-4fb4-b574-03b2bc73b3b1.ws-eu01.gitpod.io/files/download/?id=b6e82c9f-043f-4e81-9adf-ca924497737d
 
 The Wireframe documents above allowed the designer(myself) to follow a mobile first approach prioritising the content that should be included on the site.
 
-Features- 
+Features-
 
 Logo on the far top left side of the page, with the menu/ navigation left-center horizontally below the logo/header. 
 Three clips displayed horizontally aligned; three images directly below and clips are tailored to each particular health type. 
@@ -49,13 +39,14 @@ The footer feature allows users to investigate further on mental, physical and n
 
 Features left to implement- 
 
-The conversation around health is constantlty evolving; a blog or similar feature where users can input their own mental health experience. More clips to be inputted; clips are the primary substance of the site thus more verified footage that is engaging, the greater the substance of the website.
+The conversation around health is constantly evolving; a blog or similar feature where users can input their own mental health experience. More clips to be inputted; clips are the primary substance of the site thus more verified footage that is engaging, the greater the substance of the website.
 
 Technologies- 
 
 Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer.
 
 Six quote-images on each page as inspiration to the viewer that relates the health subject in a short artistic manner. On each page is a footer that three links to external sites, for the viewer to visit and discover more about health.
+
 
 Existing Features-
 
