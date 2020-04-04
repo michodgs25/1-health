@@ -20,7 +20,7 @@ Logo on the far top left side of the page, with the menu/ navigation left-center
 
 In mental, physical and nutrition pages there are minimal texts that are taken from sites such as the British heart foundation and WHO (World health organisation. on those health subjects.
 
-Six quote-images on each page as inspiration to the viewer that relates the health subject in a short artistic manner. On each page is a footer that three links to external sites, for the viewer to visit and discover more about health.
+Six quote-images on each page as inspiration to the viewer that relates the health subject in a short artistic manner. 
 
 Existing Features-
 
