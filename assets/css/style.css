@@ -1,22 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo: 100,200,300,400,500,600,700&display=swap');
 
 
-
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
-
 h2{
     font-family: Exo;
     text-transform: uppercase;
     letter-spacing: 10px;
     color: #676;
 }
-
-
 
 #logo {
     float: left;
@@ -25,24 +15,20 @@ h2{
     padding: 10px;
 }
 
-
-
 #logo {
     line-height: 50px;
     
 }
 
-
 #menu {
     clear: both;
     line-height: 70px;
     font-size: xx-large;
-    padding-top: 10%;
+    padding-top: 5%;
     padding-bottom: 10%;
     margin: 4%;
     border-spacing: 10%;
     }
-
 
 #menu li {
     letter-spacing: 2px;
@@ -50,29 +36,25 @@ h2{
     align-self: auto;
 }
 
-
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid lightblue;
 }
 
-
-#clips {
+.clips {
     clear: both;
     list-style-type: none;
     padding-left: 4%; 
     padding-bottom: 1%;
 }
 
-#clips iframe {
+.clips iframe {
     width: 470px;
     height: 300px;
     border-radius: 30px;
-    align: center;
     border-spacing: 10%;
 }
 
-
-#health-picture {
+.health-picture {
     clear: both;
     list-style-type: none;
     padding-left: 4%; 
@@ -80,30 +62,25 @@ h2{
     margin-bottom: 1%;
 }
 
-
-#health-picture img {
+.health-picture img {
     width: 470px;
     height: 300px;
     border-radius: 30px;
-    align: center;
 }
 
-
-#quotes {
+.quotes {
     clear: both;
     list-style-type: none;
     padding-left: 4%; 
     padding-top: 2%;
 }
 
-#quotes img {
+.quotes img {
     width: 230px;
     height: 500px;
     border-radius: 30px;
-    align: center;
     border-spacing: 10%;
 }
-
 
 <!--text-section-->
 
@@ -117,24 +94,17 @@ h2{
     padding-right: 50px;
 }
 
-
-
 .container p {
     padding-top: 50px;
     padding-left: 50px;
     padding-bottom: 50px;
     padding-right: 50px;
     line-height: 30px;
-
 }
-
-
 
 footer {
     height: 150px;
 }
-
-
 
 #footer-header {
     clear: both;
@@ -145,38 +115,25 @@ footer {
     color: #676;
 }
 
-
-
 #other-health a {
     text-decoration: none;
     color: black;
 }
 
-
-
-
 #other-health a:hover {
     border-bottom: 1px solid lightblue;
 }
 
-
-
 #other-health li {
     list-style-type: none;
-    text-align: center;
 }
-
-
 
 .footer li {
     display:inline;
 }
 
-
-
-.footer i {
+i {
     font-size: 500%;
     margin: 4%;
-    padding: 5%;
-    color: black;
+    padding: 40px;
 }
