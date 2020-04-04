@@ -78,14 +78,23 @@ Testing - iiii. Shared site link to course mentor, whom confirmed the link worke
 
 How the site looks on different mobile device screens was a major challenge of this project; especially having a horizontal menu bar. Using a bootstrap style collapse menu which was implemented to help users on mobile devices. Unfortunately the menu once on mobile devices ends up vertically and very far left which affect user experiecne but is still usuable. Different screen sizes is major test of the structural integrity, different screen sizes were explored using google dev tools. The content still flowed like it should down the page on mobile devices. But improvement can be made further with the content filling the screen and the naviagation bar shrinking to fit the which ever screen size it is on.
 Tested the site on different screen sizes: 
+
 iphone 5/SE - logo and navigation collapse vertically, navigation works as intended, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote images collapse vertically and fit the screen but not centrally. Footer collapses vertically and links all work as intended. Text on nutrition, mental and Physical health pages, collapses centrally on the page.
+
 Galaxy S5 - Logo Pinned at the top of the page, navigation bar collapses far right of the page, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote-image fit on the left and collapsed vertically. Footer collapses vertically and links all work as intended.
+
 Pixel 2 -  Logo at top of the page on the left hand side, navigation bar is on the right collapsed vertically(Home aligned right of the logo), clips and images collapse vertically but fit centrally onto the page, quote-image fit on the left and collapsed vertically. Footer collapses vertically and links all work as intended.
+
 Pixel 2 XL- Logo pinned to the top of the page, navigation pushes far right of the page, clips and images collapse vertically but do not fit the page overlapping to the right, quote-images fit to the left hand side of the page and footer collapses vertically& fits on the page.
+
 iphone 6/7/8 - Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended. 
+
 iphone 6/7/8 Plus - Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended.
+
 iphone X - Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended.
+
 iPad - Logo is at the top of the left hand side of the page, navigation is slightly right overlapping, collapse vertically and fit the page to the left, text is horizontal but overlaps to the right, clips and images fit to the left of the page and collapse vertically. Quote images spread horizontally and overlap to the right, footer spreads horizontally but overlaps right.
+
 ipad Pro - Logo is at the top of the page, navigation spread horizontally to the right very close to the edge of the page, clips and images fit centrally down the page. Quote images spread horizontally down the center of the page. Footer also spread horizontally. 
 
 Testing summary of device screens: 
