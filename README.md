@@ -2,11 +2,11 @@
 
 Code institute and learning people first assessment project.
 
-Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. The idea behind the creation of the website is providing a platform that brings together images plus clips and artistic quotes on mental, physical and nutrition health. General health contributes towards an individuals happiness and productivity in their daily lives personally and professional. This site aims to act as an education tool plus act as a vehicle to learn more and improve their own general health.
+Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. The idea behind the creation of the website is providing a platform that brings together images plus clips and artistic quotes on mental, physical and nutrition health. General health contributes towards an individuals happiness and productivity in their daily lives personally and professional. This site aims to act as an education tool plus act as a vehicle to learn more and improve users own general health.
 
 UX-
 
-This website for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website are the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
+This website is designed for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website are the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
 
 Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images. The clips taken from youtube is the major focus of user experience.
 
@@ -32,7 +32,7 @@ The conversation around health is constantly evolving; a blog or similar feature
 
 Technologies-
 
-Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer. Used font-awesome version 5.8.1 used, this is important as this provided the styling to the footer section with four different icons applied to an external link. This contributes to achieving user satisfaction for the site to look easy to look at. Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
+Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer. Used font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons applied to an external links. This contributes to achieving user satisfaction for the site to look easy to look at. Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
 
 On each page is a footer that has links in the form of logos to external sites, for the viewer to visit and discover more about health.
 
@@ -42,11 +42,13 @@ Testing - i. Shared the link on google, internet explorer and yahoo to ensure th
 
 How the site looks on different mobile device screens was a major challenge of this project; especially having a horizontal menu bar. Using a bootstrap style collapse menu which was implemented to help users on mobile devices.
 
-Unfortunately the menu once on mobile devices ends up vertically and very far left which affect user experiecne but is still usuable. Different screen sizes is major test of the structural integrity, different screen sizes were explored using google dev tools.
+Unfortunately the menu once on mobile devices ends up vertically and very far left which affect user experiecne but is still usuable. Different screen sizes is major test of the structural integrity, different screen sizes were explored using google developer tools.
 
 The content still flowed like it should down the page on mobile devices. But improvement can be made further with the content filling the screen and the naviagation bar shrinking to fit the which ever screen size it is on.
 
-Tested the site on different screen sizes: iphone 5/SE - logo and navigation collapse vertically, navigation works as intended, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote images collapse vertically and fit the screen but not centrally. Footer collapses vertically and links all work as intended. Text on nutrition, mental and Physical health pages, collapses centrally on the page.
+Tested the site on different screen sizes: 
+
+iphone 5/SE - logo and navigation collapse vertically, navigation works as intended, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote images collapse vertically and fit the screen but not centrally. Footer collapses vertically and links all work as intended. Text on nutrition, mental and Physical health pages, collapses centrally on the page.
 
 Galaxy S5 - Logo Pinned at the top of the page, navigation bar collapses far right of the page, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote-image fit on the left and collapsed vertically. Footer collapses vertically and links all work as intended.
 
