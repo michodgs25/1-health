@@ -76,7 +76,10 @@ The sites links and interactive media all works as intended, the logo stays in t
 
 ## Version control-
 
-Version control was conducted through following consistent updates through git-pod to git-hub project page. i. Git add. ii. Git commit -m "insert message". iii. Git Push that updates the existing files in git-hub.
+Version control was conducted through following consistent updates through git-pod to git-hub project page. 
+* i. Git add. 
+* ii. Git commit -m "insert message". 
+* iii. Git Push that updates the existing files in git-hub.
 
 ## Deployment-
 
