@@ -21,7 +21,11 @@ The Wireframe PDF allowed the designer(myself) to follow a mobile first approach
 
 ## Technologies-
 
-Wrote the code in git-pod. The two primary languages used are HTML and CSS. Applied semantic language structure employed Header, Nav, Section and Footer. Applied bootstrap formatting to the menu section and font awesome design to the footer. Used font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons applied to an external links. This contributes to achieving user satisfaction for the site to look easy to look at. Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
+* Wrote the code in git-pod. 
+* The two primary languages used are HTML and CSS. 
+* Applied semantic language structure employed Header, Nav, Section and Footer.
+* Font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons. This contributes to achieving user satisfaction for the site to look easy to look at. 
+* Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
 
 On each page is a footer that has links in the form of logos to external sites, for the viewer to visit and discover more about health.
 
