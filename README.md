@@ -17,6 +17,10 @@ As a user I want to learn more about each health topic easily, so that I can bec
 * iii. 
 As a user I want the content to stand out from the background, so that the site is easy to look at.
 
+## Features, existing features and features left to implement
+
+https://github.com/michodgs24/1-health/issues/1#issue-596106675
+
 ## Technologies-
 
 * Wrote the code in git-pod. 
@@ -98,6 +102,10 @@ I'd like to acknowldge code institute love running walk through project which I 
 ## Credits-
 
 All video content belong to YouTube and its respective creators. All images and quote-images were taken from googe images and belongs to the owner of those images.
+
+## External Media 
+
+https://github.com/michodgs24/1-health/issues/2#issue-596175924
 
 ## Texts used on website-
 
