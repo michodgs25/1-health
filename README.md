@@ -109,15 +109,4 @@ https://github.com/michodgs24/1-health/issues/2#issue-596175924
 
 ## Texts used on website-
 
-["Mental health affects every human being, from your average joe to sport stars and other famous names; talking openly with each other about mental is very important. discussing mental health brings people together and empathize with each other."] [https://www.nhs.uk/oneyou/every-mind-matters/]
-
-["The biggest challenge facing raising awareness of mental health; is the stigma surrounding this type of health. Mental health in the past has been dismissed or ignored; mental health awareness is rising thanks to people standing up and talking about it."] [https://www.nhs.uk/oneyou/every-mind-matters/]
-
-["Eating properly is important part of health and development. Better nutrition is related to improved infant, child and maternal health, stronger immune systems, safer pregnancy and childbirth, lower risk of non-communicable diseases (such as diabetes and cardiovascular disease), and longevity."] [https://www.nhs.uk/live-well/eat-well/]
-
-["Poor nutrition can lead to a lack of energy, digestive problems, food allergies, weight gain, depression and anxiety as well as many of today’s most prevalent chronic diseases."] [https://www.nhs.uk/live-well/eat-well/]
-
-["Physical health is very important to achieving vitality and longevity. Being active comes in many forms such as sport, gym, swimming, hiking and many more."] [https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active]
-
-["There is great community in staying active; whether in a fitness class or your local football team, you can make great friendships through being active."] [https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active]
-
+https://github.com/michodgs24/1-health/issues/3#issue-596181724
