@@ -27,7 +27,6 @@ https://github.com/michodgs24/1-health/issues/1#issue-596106675
 
 * Wrote the code in git-pod. 
 * The two primary languages used are HTML and CSS. 
-* Applied semantic language structure employed Header, Nav, Section and Footer.
 * Font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons. This contributes to achieving user satisfaction for the site to look easy to look at. 
 * Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
 
