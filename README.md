@@ -1,6 +1,6 @@
 # 1-health
 
-##Code institute and learning people first assessment project.
+## Code institute and learning people first assessment project.
 
 Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. The idea behind the creation of the website is providing a platform that brings together images plus clips and artistic quotes on mental, physical and nutrition health. General health contributes towards an individuals happiness and productivity in their daily lives personally and professional. This site aims to act as an education tool plus act as a vehicle to learn more and improve users own general health.
 
