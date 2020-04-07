@@ -10,14 +10,12 @@ This website is designed for users who want to visit a site and learn more about
 
 Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images. The clips taken from youtube is the major focus of user experience.
 
-### i. 
+* i. 
 As a user I want to access each page with ease, so I can flow round the site without any issues. 
-### ii. 
+* ii. 
 As a user I want to learn more about each health topic easily, so that I can become more educated on general health. 
-### iii. 
+* iii. 
 As a user I want the content to stand out from the background, so that the site is easy to look at.
-
-The Wireframe PDF allowed the designer(myself) to follow a mobile first approach prioritising the content that should be included on the site.
 
 ## Technologies-
 
@@ -27,13 +25,11 @@ The Wireframe PDF allowed the designer(myself) to follow a mobile first approach
 * Font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons. This contributes to achieving user satisfaction for the site to look easy to look at. 
 * Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
 
-On each page is a footer that has links in the form of logos to external sites, for the viewer to visit and discover more about health.
-
 ## Testing-
 
 ### Testing - i.
 Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. 
-### ii. 
+### Testing - ii. 
 On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet. 
 ### Testing - iii. 
 Logged into different devices and tested my site link; which worked as intended. 
