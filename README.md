@@ -47,7 +47,9 @@ Unfortunately the menu once on mobile devices ends up vertically and very far le
 
 The content still flowed like it should down the page on mobile devices. But improvement can be made further with the content filling the screen and the naviagation bar shrinking to fit the which ever screen size it is on.
 
-## Tested the site on different screen sizes: 
+## Testing the site on different screen sizes: 
+
+The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices.
 
 ### iphone 5/SE - 
 logo and navigation collapse vertically, navigation works as intended, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote images collapse vertically and fit the screen but not centrally. Footer collapses vertically and links all work as intended. Text on nutrition, mental and Physical health pages, collapses centrally on the page.
