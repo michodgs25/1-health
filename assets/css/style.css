@@ -19,7 +19,7 @@ h2{
     line-height: 50px;
 }
 
-#menu {
+.nav menu {
     clear: both;
     line-height: 70px;
     font-size: xx-large;
@@ -29,7 +29,7 @@ h2{
     border-spacing: 10%;
     }
 
-#menu li {
+.nav menu li {
     letter-spacing: 2px;
     margin-left: 50px;
     align-self: auto;
