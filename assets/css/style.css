@@ -22,8 +22,7 @@ h2{
 .nav menu {
     clear: both;
     line-height: 70px;
-    font-size: xx-large;
-    padding-top: 5%;
+    padding-top: 10%;
     padding-bottom: 10%;
     margin: 4%;
     border-spacing: 10%;
@@ -57,14 +56,14 @@ h2{
     clear: both;
     list-style-type: none;
     padding-left: 4%; 
-    margin-top: 1%;
-    margin-bottom: 1%;
+    padding-bottom: 1%;
 }
 
 .health-picture img {
     width: 470px;
     height: 300px;
     border-radius: 30px;
+    border-spacing: 10%;
 }
 
 .quotes {
