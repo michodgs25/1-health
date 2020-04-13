@@ -53,37 +53,28 @@ The content still flowed like it should down the page on mobile devices. But imp
 
 ## Testing the site on different screen sizes: 
 
-The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices.
+The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices, used developer tools and the site is compatible with:
 
-### iphone 5/SE - 
-logo and navigation collapse vertically, navigation works as intended, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote images collapse vertically and fit the screen but not centrally. Footer collapses vertically and links all work as intended. Text on nutrition, mental and Physical health pages, collapses centrally on the page.
+### iphone 5/SE
 
-### Galaxy S5 - 
-Logo Pinned at the top of the page, navigation bar collapses far right of the page, clips collapse vertically but overlap to the right, images collapse vertically but overlap to the right, quote-image fit on the left and collapsed vertically. Footer collapses vertically and links all work as intended.
+### Galaxy S5 
 
-### Pixel 2 - 
-Logo at top of the page on the left hand side, navigation bar is on the right collapsed vertically(Home aligned right of the logo), clips and images collapse vertically but fit centrally onto the page, quote-image fit on the left and collapsed vertically. Footer collapses vertically and links all work as intended.
+### Pixel 2
 
-### Pixel 2 XL- 
-Logo pinned to the top of the page, navigation pushes far right of the page, clips and images collapse vertically but do not fit the page overlapping to the right, quote-images fit to the left hand side of the page and footer collapses vertically& fits on the page.
+### Pixel 2 XL
 
-### iphone 6/7/8 - 
-Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended.
+### iphone 6/7/8 
 
-### iphone 6/7/8 Plus - 
-Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended.
+### iphone 6/7/8 Plus
 
-### iphone X - 
-Logo pinned at the top of the page, navigation pushes far right of the page, clips and images collapse vertically but overlap to the right of the page, quote images fit to the left of the page. Footer collapses vertically and links all work as intended.
+### iphone X
 
-### iPad - 
-Logo is at the top of the left hand side of the page, navigation is slightly right overlapping, collapse vertically and fit the page to the left, text is horizontal but overlaps to the right, clips and images fit to the left of the page and collapse vertically. Quote images spread horizontally and overlap to the right, footer spreads horizontally but overlaps right.
+### iPad
 
-### ipad Pro - 
-Logo is at the top of the page, navigation spread horizontally to the right very close to the edge of the page, clips and images fit centrally down the page. Quote images spread horizontally down the center of the page. Footer also spread horizontally.
+### ipad Pro
 
 ### Testing summary of device screens: 
-The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is inconsistent, collapsing vertically most on mobile devices and spread horizontal on tablets. Clips and images- overlap to the right frequently occaisionally fitting centrally. Text maintains integrity across screen sizes but on larger screens such as the ipad Pro where the text overlaps to the right. Footer collapses vertically and fits the screen on the majority of screen sizes. On larger screen sizes the footer can be horizontal.
+The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is consistent.
 
 ## Version control-
 
