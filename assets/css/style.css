@@ -34,10 +34,6 @@ h2{
     align-self: auto;
 }
 
-.menu a:hover {
-    border-bottom: 1px solid lightblue;
-}
-
 .clips {
     clear: both;
     list-style-type: none;
