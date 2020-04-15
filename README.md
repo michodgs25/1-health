@@ -95,7 +95,8 @@ In deployed version on the site, the site looks how it should. The navigation ba
 
 ## Acknowledgements-
 
-I'd like to acknowldge code institute love running walk through project which I took inspiration from. Social media platforms such as instagram and snapchat has inspired the user experience for this website.
+I'd like to acknowldge code institute love running walk through project and code institute whiskey mini walk through exercises.
+which I took inspiration from. Social media platforms such as instagram and snapchat has inspired the visual experience for this website.
 
 ## Credits-
 
