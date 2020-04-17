@@ -34,6 +34,9 @@ https://github.com/michodgs24/1-health/issues/5#issue-601928143
 ### Footer section
 https://github.com/michodgs24/1-health/issues/6#issue-601935897
 
+## Features left to implement
+https://github.com/michodgs24/1-health/issues/7#issue-601955934
+
 
 ## Technologies-
 
