@@ -26,13 +26,13 @@ https://github.com/michodgs24/1-health/issues/1#issue-596106675
 ## Wire-Frames
 
 ### Header and Menu section
-https://github.com/michodgs24/1-health/issues/4#issue-596474261
+https://github.com/michodgs24/1-health/issues/1#issue-596106675
 
 ### Body section 
-
+https://github.com/michodgs24/1-health/issues/5#issue-601928143
 
 ### Footer section
-
+https://github.com/michodgs24/1-health/issues/6#issue-601935897
 
 
 ## Technologies-
