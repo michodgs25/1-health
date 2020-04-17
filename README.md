@@ -25,7 +25,15 @@ https://github.com/michodgs24/1-health/issues/1#issue-596106675
 
 ## Wire-Frames
 
+### Header and Menu section
 https://github.com/michodgs24/1-health/issues/4#issue-596474261
+
+### Body section 
+
+
+### Footer section
+
+
 
 ## Technologies-
 
