@@ -10,9 +10,9 @@ h2{
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 200%;
     margin: 2%;
-    padding: 10px;
+    padding: 2px;
 }
 
 #logo {
@@ -28,10 +28,11 @@ h2{
     border-spacing: 10%;
     }
 
-.nav menu li {
+.navbar li {
+    clear:both;
     letter-spacing: 2px;
-    margin-left: 50px;
-    align-self: auto;
+    margin-right: 10px;
+    align-self: 0 auto;
 }
 
 .clips {
