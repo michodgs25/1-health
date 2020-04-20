@@ -49,12 +49,13 @@ h2{
 }
 
 .health-picture img {
+    padding-top: 10px;
     border-radius: 30px;
     border-spacing: 10%;
 }
 
 .health-picture img {
-  max-width: 100%;
+  max-width: 30%;
   height: auto;
 }
 
@@ -67,8 +68,8 @@ h2{
 }
 
 .quotes img {
-    width: 200px;
-    height: 500px;
+    width: 30%;
+    height: 30%;
     border-radius: 30px;
     border-spacing: 10%;
     align-self: 0 auto;
