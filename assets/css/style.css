@@ -19,48 +19,43 @@ h2{
     line-height: 50px;
 }
 
-.nav menu {
-    clear: both;
-    line-height: 70px;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    margin: 4%;
-    border-spacing: 10%;
-    }
-
 .navbar li {
-    clear:both;
-    letter-spacing: 2px;
-    margin-right: 10px;
-    align-self: 0 auto;
+    float: right;
+    margin-right: 20px;
+}
+
+.navbar a:hover {
+    border-bottom: 1px solid lightblue;
 }
 
 .clips {
     clear: both;
     list-style-type: none;
-    padding-left: 4%; 
-    padding-bottom: 1%;
+    align-self: 0 auto;
 }
 
 .clips iframe {
-    width: 470px;
-    height: 300px;
+    max-width: 100%;
+    height: auto;
     border-radius: 30px;
-    border-spacing: 10%;
+    border-spacing: 5%;
+    align-self: 0 auto;
 }
 
 .health-picture {
     clear: both;
     list-style-type: none;
-    padding-left: 4%; 
     padding-bottom: 1%;
 }
 
 .health-picture img {
-    width: 470px;
-    height: 300px;
     border-radius: 30px;
     border-spacing: 10%;
+}
+
+.health-picture img {
+  max-width: 100%;
+  height: auto;
 }
 
 .quotes {
@@ -68,13 +63,15 @@ h2{
     list-style-type: none;
     padding-left: 4%; 
     padding-top: 2%;
+    align-self: 0 auto;
 }
 
 .quotes img {
-    width: 230px;
+    width: 200px;
     height: 500px;
     border-radius: 30px;
     border-spacing: 10%;
+    align-self: 0 auto;
 }
 
 <!--text-section-->
@@ -132,3 +129,25 @@ i {
     margin: 4%;
     padding: 40px;
 }
+
+/*device size section */
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .clips  {align-content: 0 space-around;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .clips  {align-content: 0 space-around;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .clips  {align-content: 0 space-around;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .clips  { align-content: 0 space-around;}
