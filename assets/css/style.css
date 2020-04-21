@@ -29,34 +29,29 @@ h2{
 }
 
 .clips {
+    width: 100%;
     clear: both;
     list-style-type: none;
-    align-self: 0 auto;
 }
 
 .clips iframe {
-    max-width: 100%;
     height: auto;
-    border-radius: 30px;
     border-spacing: 5%;
-    align-self: 0 auto;
-}
-
-.health-picture {
-    clear: both;
-    list-style-type: none;
-    padding-bottom: 1%;
 }
 
 .health-picture img {
+    clear: both;
+    list-style-type: none;
+    padding-bottom: 1%;
     padding-top: 10px;
     border-radius: 30px;
     border-spacing: 10%;
 }
 
 .health-picture img {
-  max-width: 30%;
-  height: auto;
+    height: 250px;
+    width: 305px;
+    padding-top: 30px;
 }
 
 .quotes {
@@ -68,10 +63,10 @@ h2{
 }
 
 .quotes img {
-    width: 30%;
-    height: 30%;
+    width: 15%;
+    height: 5%;
     border-radius: 30px;
-    border-spacing: 10%;
+    border-spacing: 20%;
     align-self: 0 auto;
 }
 
@@ -131,24 +126,24 @@ i {
     padding: 40px;
 }
 
-/*device size section */
+/*device size section*/
 
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
+/* Small devices (portrait tablets and large phones, 600px and up)*/
 @media only screen and (min-width: 600px) {
   .clips  {align-content: 0 space-around;}
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
+/* Medium devices (landscape tablets, 768px and up)*/
 @media only screen and (min-width: 768px) {
   .clips  {align-content: 0 space-around;}
 } 
 
-/* Large devices (laptops/desktops, 992px and up) */
+/* Large devices (laptops/desktops, 992px and up)*/
 @media only screen and (min-width: 992px) {
   .clips  {align-content: 0 space-around;}
 } 
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* Extra large devices (large laptops and desktops, 1200px and up)*/
 @media only screen and (min-width: 1200px) {
   .clips  { align-content: 0 space-around;}
