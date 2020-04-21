@@ -44,6 +44,7 @@ https://github.com/michodgs24/1-health/issues/7#issue-601955934
 * The two primary languages used are HTML and CSS. 
 * Font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons. This contributes to achieving user satisfaction for the site to look easy to look at. 
 * Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
+* Applied Jquery version: jquery-3.2.1.slim.min.js, cloud flare cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js and boostrap cdn version bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js these scripts were used to ensure the navigation bar button works once in mobile form.
 
 ## Testing-
 
