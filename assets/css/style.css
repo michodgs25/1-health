@@ -23,7 +23,7 @@ h2{
 
 .navbar li {
     float: right;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .navbar a:hover {
@@ -36,6 +36,7 @@ h2{
     width: 100%;
     clear: both;
     list-style-type: none;
+    text-align: center;
 }
 
 .clips iframe {
@@ -58,12 +59,18 @@ h2{
     height: 250px;
     width: 305px;
     padding-top: 30px;
+    text-align: center;
+}
+
+.health-picture {
+    text-align: center;
 }
 
 /*Quotes section*/
 
 .quotes {
     clear: both;
+    text-align: center;
     list-style-type: none;
     padding-left: 4%; 
     padding-top: 2%;
