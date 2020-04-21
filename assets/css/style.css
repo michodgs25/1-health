@@ -19,6 +19,8 @@ h2{
     line-height: 50px;
 }
 
+/*Navigation section*/
+
 .navbar li {
     float: right;
     margin-right: 20px;
@@ -27,6 +29,8 @@ h2{
 .navbar a:hover {
     border-bottom: 1px solid lightblue;
 }
+
+/*Clips section*/
 
 .clips {
     width: 100%;
@@ -38,6 +42,8 @@ h2{
     height: auto;
     border-spacing: 5%;
 }
+
+/*Picture section*/
 
 .health-picture img {
     clear: both;
@@ -53,6 +59,8 @@ h2{
     width: 305px;
     padding-top: 30px;
 }
+
+/*Quotes section*/
 
 .quotes {
     clear: both;
@@ -70,7 +78,7 @@ h2{
     align-self: 0 auto;
 }
 
-<!--text-section-->
+/*Text section*/
 
 #para-intro  {
     font-family: Exo;
@@ -89,6 +97,8 @@ h2{
     padding-right: 50px;
     line-height: 30px;
 }
+
+/*Footer section*/
 
 footer {
     height: 150px;
