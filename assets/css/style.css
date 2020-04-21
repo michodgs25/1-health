@@ -22,12 +22,8 @@ h2{
 /*Navigation section*/
 
 .navbar li {
-    float: right;
-    margin-right: 10px;
-}
-
-.navbar a:hover {
-    border-bottom: 1px solid lightblue;
+    list-style-type: none;
+    text-align: center;
 }
 
 /*Clips section*/
