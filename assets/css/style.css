@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo: 100,200,300,400,500,600,700&display=swap');
 
+/*Navigation section*/
+
+.navbar {
+    list-style-type: none;
+}
+
+.navbar a {
+    color: white;
+}
+
+.menu {
+    color: white;
+}
+
+/*logo header section*/
 
 h2{
     font-family: Exo;
@@ -8,16 +23,19 @@ h2{
     color: #676;
 }
 
-#logo {
+.logo {
     float: left;
     font-size: 300%;
     margin: 2%;
     padding: 2px;
 }
 
-#logo {
+.logo {
+    padding-top: 50px;
     line-height: 100px;
 }
+
+
 
 /*sub heading and subsequent text below*/
 
@@ -32,14 +50,8 @@ h3 {
     text-align: center;
 }
 
-/*Navigation section*/
-
-.navbar {
-    list-style-type: none;
-}
-
-.menu {
-    color: white;
+.clips {
+    background-color: linen;
 }
 
 /*Clips section*/
