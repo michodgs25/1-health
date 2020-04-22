@@ -50,7 +50,21 @@ h3 {
     text-align: center;
 }
 
+/*Main body background color code*/
+
 .clips {
+    background-color: linen;
+}
+
+.health-picture {
+    background-color: linen;
+}
+
+.quotes {
+    background-color: linen;
+}
+
+.para-intro {
     background-color: linen;
 }
 
@@ -111,7 +125,7 @@ h3 {
 
 /*Text section*/
 
-#para-intro  {
+.para-intro  {
     font-family: Exo;
     clear: both;
     color: #777777;
