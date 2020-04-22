@@ -10,20 +10,36 @@ h2{
 
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 300%;
     margin: 2%;
     padding: 2px;
 }
 
 #logo {
-    line-height: 50px;
+    line-height: 100px;
+}
+
+/*sub heading and subsequent text below*/
+
+h3 {
+    padding-top: 200px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.sub-section p {
+    padding-bottom: 50px;
+    text-align: center;
 }
 
 /*Navigation section*/
 
-.navbar li {
+.navbar {
     list-style-type: none;
-    text-align: center;
+}
+
+.menu {
+    color: white;
 }
 
 /*Clips section*/
@@ -104,6 +120,7 @@ h2{
 /*Footer section*/
 
 footer {
+    text-align: center;
     height: 150px;
 }
 
