@@ -3,7 +3,7 @@
 /*Navigation section*/
 
 .navbar {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .navbar a {
@@ -34,8 +34,6 @@ h2{
     padding-top: 50px;
     line-height: 100px;
 }
-
-
 
 /*sub heading and subsequent text below*/
 
@@ -181,25 +179,3 @@ i {
     margin: 4%;
     padding: 40px;
 }
-
-/*device size section*/
-
-
-/* Small devices (portrait tablets and large phones, 600px and up)*/
-@media only screen and (min-width: 600px) {
-  .clips  {align-content: 0 space-around;}
-}
-
-/* Medium devices (landscape tablets, 768px and up)*/
-@media only screen and (min-width: 768px) {
-  .clips  {align-content: 0 space-around;}
-} 
-
-/* Large devices (laptops/desktops, 992px and up)*/
-@media only screen and (min-width: 992px) {
-  .clips  {align-content: 0 space-around;}
-} 
-
-/* Extra large devices (large laptops and desktops, 1200px and up)*/
-@media only screen and (min-width: 1200px) {
-  .clips  { align-content: 0 space-around;}
