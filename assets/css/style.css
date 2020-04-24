@@ -6,6 +6,12 @@
   list-style-type: none;
 }
 
+.navigation h5 section {
+    color: #676;
+    text-decoration-color: #676;
+    padding: 50rem;
+}
+
 .navbar a {
     color: rgb(255, 255, 255);
 }
@@ -35,7 +41,7 @@ h2{
     line-height: 100px;
 }
 
-/*sub heading and subsequent text below*/
+/*Home page sub heading and subsequent text below*/
 
 h3 {
     padding-top: 200px;
@@ -52,6 +58,7 @@ h3 {
 
 h6 {
     text-align: center;
+    color: #676;
 }
 
 
@@ -76,7 +83,6 @@ h6 {
 /*Clips section*/
 
 .clips {
-    width: 100%;
     clear: both;
     list-style-type: none;
     text-align: center;
@@ -85,6 +91,8 @@ h6 {
 .clips iframe {
     height: auto;
     border-spacing: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 /*Picture section*/
@@ -92,16 +100,13 @@ h6 {
 .health-picture img {
     clear: both;
     list-style-type: none;
-    padding-bottom: 1%;
-    padding-top: 10px;
-    border-radius: 30px;
-    border-spacing: 10rem;
+    padding-bottom: 1rem;
+    border-radius: 3rem;
 }
 
 .health-picture img {
     height: 250px;
     width: 305px;
-    padding-top: 30px;
     text-align: center;
 }
 
@@ -115,29 +120,25 @@ h6 {
     clear: both;
     text-align: center;
     list-style-type: none;
-    padding-left: 4%; 
-    padding-top: 2%;
-    align-self: auto;
+    padding-top: inherit;
 }
 
 .quotes img {
-    width: 15%;
-    height: 5%;
-    border-radius: 30px;
+    width: 10rem;
+    height: 20rem;
+    border-radius: 3rem;
     border-spacing: 20rem;
+    border-bottom: 1rem;
     align-self: auto;
 }
 
 /*Text section*/
 
 .para-intro  {
-    font-family: Exo;
     clear: both;
-    color: #777777;
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
+    font-family: Exo;
+    color: #676;
+    padding: 10rem;
 }
 
 .container p {
@@ -157,7 +158,7 @@ footer {
 
 .footer-header {
     clear: both;
-    padding-top: 150px;
+    padding-top: 100px;
     font-family: Exo;
     text-transform: uppercase;
     letter-spacing: 10px;
@@ -167,22 +168,20 @@ footer {
 .other-health a {
     text-decoration: none;
     color: black;
+    text-align: center; 
+}
+
+.other-health li {
+    list-style-type: none;
+    display: inline;
 }
 
 .other-health a:hover {
     border-bottom: 1px solid lightblue;
 }
 
-.other-health li {
-    list-style-type: none;
-}
-
-.footer li {
-    display:inline;
-}
-
 i {
-    font-size: 500%;
-    margin: 4%;
-    padding: 40px;
+    font-size: 4rem;
+    padding: 1rem;
+    margin: 3rem;
 }
