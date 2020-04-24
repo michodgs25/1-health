@@ -148,7 +148,7 @@ footer {
     height: 150px;
 }
 
-#footer-header {
+.footer-header {
     clear: both;
     padding-top: 150px;
     font-family: Exo;
@@ -157,16 +157,16 @@ footer {
     color: #676;
 }
 
-#other-health a {
+.other-health a {
     text-decoration: none;
     color: black;
 }
 
-#other-health a:hover {
+.other-health a:hover {
     border-bottom: 1px solid lightblue;
 }
 
-#other-health li {
+.other-health li {
     list-style-type: none;
 }
 
