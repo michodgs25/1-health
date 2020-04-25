@@ -13,11 +13,11 @@ Social media platforms such as instagram and snapchat has inspired the user expe
 ### User Stories
 
 * i. 
-As a user I want to access each page with ease, so I can flow round the site without any issues. 
+As a user I want the webpage to be easy to navigate. 
 * ii. 
 As a user I want to learn more about each health topic easily, so that I can become more educated on general health. 
 * iii. 
-As a user I want the content to stand out from the background, so that the site is easy to look at.
+As a user I want the content to stand out from the background, so the site is easy to look at.
 
 ## Features, existing features and features left to implement
 
