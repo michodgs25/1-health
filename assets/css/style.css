@@ -20,7 +20,7 @@
     color: rgb(255, 255, 255);
 }
 
-/*logo header section*/
+  /*logo header section*/
 
 h2{
     font-family: Exo;
@@ -30,54 +30,17 @@ h2{
 }
 
 .logo {
-    float: left;
-    font-size: 2rem;
-    margin: 1rem;
+    font-size: 3rem;
     padding: 1rem;
 }
 
 .logo {
-    padding-top: 5rem;
-    line-height: 5rem;
+    line-height: 15rem;
 }
 
-/*Home page sub heading and subsequent text below*/
-
-h3 {
-    padding-top: 15rem;
-    padding-bottom: 2rem;
-    text-align: center;
-}
-
-.sub-section p {
-    padding-bottom: 5rem;
-    text-align: center;
-}
-
-/*Section headings*/
-
-h6 {
-    text-align: center;
-    color: #676;
-}
-
-
-/*Main body background color code*/
-
-.clips {
-    background-color: rgb(231, 229, 229);
-}
-
-.health-picture {
-    background-color: rgb(231, 229, 229);
-}
-
-.quotes {
-    background-color: rgb(231, 229, 229);
-}
-
-.para-intro {
-    background-color: rgb(231, 229, 229);
+.logo {
+    background: url("https://wallpaperaccess.com/full/148454.jpg") no-repeat center center;
+    background-size: fill;
 }
 
 /*Clips section*/
@@ -95,40 +58,35 @@ h6 {
     margin-bottom: 1rem;
 }
 
-/*Picture section*/
+/*Home page sub heading and subsequent text below*/
 
-.health-picture img {
-    clear: both;
-    list-style-type: none;
-    padding-bottom: 1rem;
-    border-radius: 3rem;
-}
-
-.health-picture img {
-    height: 15rem;
-    width: 18rem;
-}
-
-.health-picture {
+ h3 {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
     text-align: center;
 }
 
-/*Quotes section*/
-
-.quotes {
-    clear: both;
+.sub-section p {
+    padding-bottom: 5rem;
     text-align: center;
-    list-style-type: none;
-    padding-top: inherit;
 }
 
-.quotes img {
-    width: 10rem;
-    height: 20rem;
-    border-radius: 3rem;
-    border-spacing: 20rem;
-    border-bottom: 1rem;
-    align-self: auto;
+/*Section headings*/
+
+h6 {
+    text-align: center;
+    color: #676;
+}
+
+
+/*Main body background color code
+
+.clips {
+    background-color: rgb(231, 229, 229);
+}*/
+
+.para-intro {
+    background-color: rgb(231, 229, 229);
 }
 
 /*Text section*/
@@ -154,23 +112,21 @@ footer {
 
 .footer-header {
     clear: both;
-    padding-top: 5rem;
     font-family: Exo;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     color: #676;
 }
 
 .other-health a {
     text-decoration: none;
     color: black;
-    text-align: center; 
 }
 
 .other-health li {
     list-style-type: none;
-    display: inline;
     text-align: center;
+    display: inline;
 }
 
 .other-health a:hover {
@@ -182,8 +138,4 @@ i {
     padding: 1rem;
     margin: 1rem;
     text-align: center;
-}
-
-.container {
-    justify-content: center;
 }
