@@ -8,7 +8,6 @@
 
 .navigation h5 section {
     color: #676;
-    text-decoration-color: #676;
     padding: 50rem;
 }
 
@@ -26,7 +25,7 @@ h2{
     font-family: Exo;
     text-transform: uppercase;
     letter-spacing: 10px;
-    color: #676;
+    color: rgb(77, 73, 73);
 }
 
 .logo {
