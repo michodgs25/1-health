@@ -44,7 +44,7 @@ h2{
 /*Home page sub heading and subsequent text below*/
 
 h3 {
-    padding-top: 20rem;
+    padding-top: 15rem;
     padding-bottom: 2rem;
     text-align: center;
 }
@@ -106,8 +106,7 @@ h6 {
 
 .health-picture img {
     height: 15rem;
-    width: 20rem;
-    text-align: center;
+    width: 18rem;
 }
 
 .health-picture {
@@ -138,12 +137,12 @@ h6 {
     clear: both;
     font-family: Exo;
     color: #676;
-    padding: 10rem;
+    padding: 2rem;
 }
 
 .container p {
-    padding: 10rem;
-    line-height: 5rem;
+    padding: 2rem;
+    line-height: 2rem;
 }
 
 /*Footer section*/
@@ -155,10 +154,10 @@ footer {
 
 .footer-header {
     clear: both;
-    padding-top: 20rem;
+    padding-top: 5rem;
     font-family: Exo;
     text-transform: uppercase;
-    letter-spacing: 1rem;
+    letter-spacing: 1px;
     color: #676;
 }
 
@@ -171,6 +170,7 @@ footer {
 .other-health li {
     list-style-type: none;
     display: inline;
+    text-align: center;
 }
 
 .other-health a:hover {
@@ -178,7 +178,12 @@ footer {
 }
 
 i {
-    font-size: 4rem;
+    font-size: 3rem;
     padding: 1rem;
-    margin: 3rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.container {
+    justify-content: center;
 }
