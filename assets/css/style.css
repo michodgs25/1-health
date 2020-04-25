@@ -31,26 +31,26 @@ h2{
 
 .logo {
     float: left;
-    font-size: 300%;
-    margin: 2%;
-    padding: 2px;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
 }
 
 .logo {
-    padding-top: 50px;
-    line-height: 100px;
+    padding-top: 5rem;
+    line-height: 5rem;
 }
 
 /*Home page sub heading and subsequent text below*/
 
 h3 {
-    padding-top: 200px;
-    padding-bottom: 20px;
+    padding-top: 20rem;
+    padding-bottom: 2rem;
     text-align: center;
 }
 
 .sub-section p {
-    padding-bottom: 50px;
+    padding-bottom: 5rem;
     text-align: center;
 }
 
@@ -105,8 +105,8 @@ h6 {
 }
 
 .health-picture img {
-    height: 250px;
-    width: 305px;
+    height: 15rem;
+    width: 20rem;
     text-align: center;
 }
 
@@ -142,26 +142,23 @@ h6 {
 }
 
 .container p {
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-    line-height: 30px;
+    padding: 10rem;
+    line-height: 5rem;
 }
 
 /*Footer section*/
 
 footer {
     text-align: center;
-    height: 150px;
+    height: 20rem;
 }
 
 .footer-header {
     clear: both;
-    padding-top: 100px;
+    padding-top: 20rem;
     font-family: Exo;
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 1rem;
     color: #676;
 }
 
