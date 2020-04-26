@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo: 100,200,300,400,500,600,700&display=swap');
 
-/*Navigation section*/
-
-.navbar {
-  list-style-type: none;
-}
-.navbar-link a {
-    color: rgb(255, 255, 255);
+  /*navigation*/
+  i {
+    display: inline-block;
+    margin-right: 6px;
 }
 
-.menu {
-    color: rgb(255, 255, 255);
+.nav-link {
+    font-size: calc(1rem + 0.1vw);
+    background-blend-mode: soft-light;
 }
-
-  /*logo header section*/
+  
+  
+  
+  /*logo header section of navigation*/
 
 h2{
     font-family: Exo;
@@ -23,16 +23,15 @@ h2{
 }
 
 .logo {
-    font-size: 3rem;
+    font-size: 1rem;
     padding: 1rem;
 }
 
 .logo {
-    line-height: 15rem;
+    line-height: 2rem;
 }
 
-.logo {
-    background: url("https://wallpaperaccess.com/full/148454.jpg") no-repeat center center;
+.cover {
     background-size: fill;
 }
 
