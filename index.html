@@ -3,8 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--Font awesome-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 	<!--Bootstrap-->
@@ -14,31 +13,39 @@
 	<title>1 health</title>
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#navbar-scrollspy" data-offset="0" id="home">
 
 	<!--Navigation bar, place above the logo.-->
-	<div class="pos-f-t">
-		<nav class="collapse" id="navbarToggleExternalContent">
-			<div class="navbar navbar-dark bg-dark">
-				<ul class="navbar">
-					<li class="active nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
-					<li class="nav-item mr-2"><a class="nav-link" href="mental-health.html">Mental</a></li>
-					<li class="nav-item mr-2"><a class="nav-link" href="Physical-health.html">Physical</a></li>
-					<li class="nav-item mr-2"><a class="nav-link" href="nutrition.html">Nutrition</a></li>
-				</ul>
-			</div>
-		</nav>
-	</div>
-	<div>
-		<nav class="navbar navbar-dark bg-dark">
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+<nav id="navbar-scrollspy" class="navbar navbar-expand-lg navbar-light fixed-top bg-light-pink pb-3">
+    <a class="navbar-brand " target="_self" href="#"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+      aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-		</nav>
-	</div>
-	<section class="navigation">
-		<h5>Navigation</h5>
-	</section>
+    <div class="collapse navbar-collapse mt-2" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto skew">
+        <li class="nav-item">
+          <a class="nav-link " href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#mental health">Mental health</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#physical health">Physical health</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#nutrition">Nutrition</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#gallery">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#more health">More Health</a>
+        </li>
+      </ul>
+    </div>
+
+  </nav>
 
 	<!--title logo, placed to the top left of the page -->
 	<header>
@@ -50,10 +57,7 @@
 	<!--Home page clips, this is the main substance of user engagement.-->
 
 	<section class="clips">
-    <a href="index.html">
-		<h6>Home</h6>
-    </a>
-		<hr>
+			<h6 id="home">Home</h6>
 		<div class="container">
 			<iframe title="healthy living compilation" src="https://www.youtube.com/embed/oVTz-2R6V3U"
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -70,9 +74,7 @@
 	<!--Mental health clips-->
 
 	<section class="clips">
-    <a href="mental-health.html">
-		<h6>Mental Health</h6>
-    </a>
+			<h6 id="mental-health">Mental Health</h6>
 		<hr>
 		<div class="container">
 			<iframe title="Tyson fury talks mental health" src="https://www.youtube.com/embed/N5qTvdFFW8c"
@@ -90,9 +92,7 @@
 	<!--Physical health clips-->
 
 	<section class="clips">
-    <a href="Physical-health.html">
-		<h6>Physical Health</h6>
-    </a>
+			<h6 id="physical health">Physical Health</h6>
 		<hr>
 		<div class="container">
 			<iframe title="The best workout motivation: by Joe Rogan" src="https://www.youtube.com/embed/e_eJRDl2J6Y"
@@ -110,9 +110,7 @@
 	<!--Nutrition clips-->
 
 	<section class="clips">
-        <a href="nutrition.html">
-		<h6>Nutrition</h6>
-        </a>
+			<h6 id="nutrition">Nutrition</h6>
 		<hr>
 		<div class="container">
 			<iframe title="How to create a health plate" src="https://www.youtube.com/embed/Gmh_xMMJ2Pw"
@@ -127,30 +125,49 @@
 		</div>
 	</section>
 
-	<!--Links to other health sites, this provides the viewer an opportunity to explore health further-->
 
-	<footer class="container">
-		<h2 class="footer-header">Further health</h2>
-		<ul class="other-health">
-			<li><a href="https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active"
-					target="_blank" rel="noopener"><i class="fas fa-running"></i></a></li>
-			<li><a href="https://www.nhs.uk/oneyou/every-mind-matters/" target="_blank"
-					rel="noopener"><i class="fas fa-brain"></i></a></li>
-			<li><a href="https://www.nhs.uk/live-well/eat-well/" target="_blank"
-					rel="noopener"><i class="fas fa-utensils"></i></a>
-			</li>
-			<li><a href="https://www.who.int/behealthy" target="_blank"
-					rel="noopener"><i class="fas fa-heartbeat"></i></a></li>
-		</ul>
-	</footer>
-	<!--Jquery library-->
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js">
-	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js">
-	</script>
-	<!--Bootstrap library-->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js">
-	</script>
+	<gallery class="gallery">
+		<h2 id="gallery">Gallery</h2>
+
+		<img src="https://s3-us-west-1.amazonaws.com/asianjournal-ca/wp-content/uploads/2015/11/exercise.jpg">
+		<img src="//images.ctfassets.net/yixw23k2v6vo/3m1t2F50zSE2UQSOu2Sm4S/aa39fb98cd33b0f76b387c8b769e289b/iStock-847774062.jpg?w=600&h=400&fm=jpg&fit=thumb&q=65&fl=progressive">
+
+		<img src="https://ca-times.brightspotcdn.com/dims4/default/42d7d3c/2147483647/strip/true/crop/2048x1151+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F25%2Fbd%2F0d3afc5c976724d81397406f524e%2Fla-1553301925-kabslngi6v-snap-image">
+		<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mental-health-millennials-1524742146.jpg">
+
+		<img src="https://ofy.org/wp-content/uploads/2016/01/OFY-eating-healthy.jpg">
+		<img src="https://www.123dentist.com/wp-content/uploads/2019/11/healthy-heart-foods-825x550.jpg">
+
+
+		<img src="https://cdn.shopify.com/s/files/1/1237/8116/articles/Active-Lifestyle.jpg?v=1503420208">
+		<img src="https://cdn.shopify.com/s/files/1/2074/9385/articles/people_taking_spin_class_1400x.progressive.png.jpg?v=1576643571">
+
+    </gallery>
+
+		<!--Links to other health sites, this provides the viewer an opportunity to explore health further-->
+
+		<footer class="container">
+			<h2 class="footer-header">Further health</h2>
+			<ul class="other-health">
+				<li><a href="https://www.bhf.org.uk/informationsupport/support/healthy-living/staying-active"
+						target="_blank" rel="noopener"><i class="fas fa-running"></i></a></li>
+				<li><a href="https://www.nhs.uk/oneyou/every-mind-matters/" target="_blank"
+						rel="noopener"><i class="fas fa-brain"></i></a></li>
+				<li><a href="https://www.nhs.uk/live-well/eat-well/" target="_blank"
+						rel="noopener"><i class="fas fa-utensils"></i></a>
+				</li>
+				<li><a href="https://www.who.int/behealthy" target="_blank"
+						rel="noopener"><i class="fas fa-heartbeat"></i></a></li>
+			</ul>
+		</footer>
+		<!--Jquery library-->
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js">
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js">
+		</script>
+		<!--Bootstrap library-->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js">
+		</script>
 </body>
 
 </html>

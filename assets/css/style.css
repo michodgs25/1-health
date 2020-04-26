@@ -5,13 +5,7 @@
 .navbar {
   list-style-type: none;
 }
-
-.navigation h5 section {
-    color: #676;
-    padding: 50rem;
-}
-
-.navbar a {
+.navbar-link a {
     color: rgb(255, 255, 255);
 }
 
@@ -56,6 +50,30 @@ h2{
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+/*Gallery section*/
+
+.gallery {
+    column-count: 3;
+}
+
+.gallery {
+    clear: both;
+    line-height: 0rem;
+    column-gap: 0rem;
+}
+
+.gallery img {
+    text-align: center;
+    width: 30rem;
+    height: 30rem;
+}
+
+@media screen and (max-width: 800px) {
+    .gallery {
+     column-count: 2;
+    }
+  }
 
 /*Footer section*/
 
