@@ -3,27 +3,24 @@
   /*navigation*/
   i {
     display: inline-block;
-    margin-right: 6px;
+    margin-right: 1rem;
 }
 
 .nav-link {
     font-size: calc(1rem + 0.1vw);
-    background-blend-mode: soft-light;
 }
   
-  
-  
-  /*logo header section of navigation*/
+/*logo header section of navigation*/
 
 h2{
     font-family: Exo;
     text-transform: uppercase;
     letter-spacing: 10px;
-    color: rgb(77, 73, 73);
+    color: #676;
 }
 
 .logo {
-    font-size: 1rem;
+    font-size: 3rem;
     padding: 1rem;
 }
 
@@ -31,11 +28,18 @@ h2{
     line-height: 2rem;
 }
 
-.cover {
-    background-size: fill;
+/*body*/
+
+body {
+    background-color: rgb(255, 240, 246);
 }
 
 /*Clips section*/
+
+#health-clips {
+    margin-right: 1rem;
+    padding: 1rem;
+}
 
 .clips {
     clear: both;
@@ -50,7 +54,17 @@ h2{
     margin-bottom: 1rem;
 }
 
+#home {
+    margin-top: 5rem;
+}
+
 /*Gallery section*/
+
+#gallery {
+    margin-right: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
 
 .gallery {
     column-count: 3;
@@ -58,14 +72,14 @@ h2{
 
 .gallery {
     clear: both;
-    line-height: 0rem;
-    column-gap: 0rem;
+    line-height: 0;
+    column-gap: 0px;
 }
 
 .gallery img {
+    width: 50%;
+    height: auto;
     text-align: center;
-    width: 30rem;
-    height: 30rem;
 }
 
 @media screen and (max-width: 800px) {
@@ -89,6 +103,10 @@ footer {
     color: #676;
 }
 
+.footer-header {
+    padding-top: 5rem;
+}
+
 .other-health a {
     text-decoration: none;
     color: black;
@@ -106,7 +124,7 @@ footer {
 
 i {
     font-size: 3rem;
-    padding: 1rem;
+    padding: 5rem;
     margin: 1rem;
     text-align: center;
 }
