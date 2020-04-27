@@ -59,35 +59,11 @@ On each brower changing the size of the browser to ensure the site maintained it
 ### Testing - iii. 
 Logged into different devices and tested my site link; which worked as intended. 
 ### Testing - iiii. 
-Shared site link to course mentor, whom confirmed the link worked as intended.
-
-How the site looks on different mobile device screens was a major challenge of this project; especially having a horizontal menu bar. Using a bootstrap style collapse menu which was implemented to help users on mobile devices.
-
-Unfortunately the menu once on mobile devices ends up vertically and very far left which affect user experiecne but is still usuable. Different screen sizes is major test of the structural integrity, different screen sizes were explored using google developer tools.
-
-The content still flowed like it should down the page on mobile devices. But improvement can be made further with the content filling the screen and the naviagation bar shrinking to fit the which ever screen size it is on.
+Is it mobile friendly? Yes according to Google Test Tool: https://search.google.com/test/mobile-friendly?id=YCYiLZmaYPTNkRVsAGS0DA
 
 ## Testing the site on different screen sizes: 
 
-The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices, used developer tools and the site is compatible with:
-
-### iphone 5/SE
-
-### Galaxy S5 
-
-### Pixel 2
-
-### Pixel 2 XL
-
-### iphone 6/7/8 
-
-### iphone 6/7/8 Plus
-
-### iphone X
-
-### iPad
-
-### ipad Pro
+The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices, used developer tools and the site is compatible with.
 
 ### Testing summary of device screens: 
 The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is consistent.
