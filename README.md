@@ -59,6 +59,9 @@ Logged into different devices and tested my site link; which worked as intended.
 ### Testing - iiii. 
 Is it mobile friendly? Yes according to Google Test Tool: https://search.google.com/test/mobile-friendly?id=YCYiLZmaYPTNkRVsAGS0DA
 
+### Testing iiiii.
+Site was tested in safari, firefox and chrome. Site works as intended.
+
 ## Testing the site on different screen sizes: 
 
 The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices, used developer tools and the site is compatible with.
@@ -75,13 +78,9 @@ Version control was conducted through following consistent updates through git-p
 
 ## Deployment-
 
-Deployed the site to github.
-
-I ran my site locally by typing: python3 -m http.server in the terminal, open port 8000 and refresh the browser as initially the page does not load.
-
-Link to website on github - https://michodgs24.github.io/1-health/
-
-In deployed version on the site, the site looks how it should. The navigation bar, clips and footer links all work as intended.
+Log on to github, type into search bar: michodgs24/1-health, this will take the user to project page, click the green button named gitpod. 
+The user can clone or download the project files via green button by the same name.
+The user will need to have github and gitpod to deploy the site.
 
 ## Acknowledgements-
 
