@@ -12,8 +12,6 @@ Health is such an important subject for all individuals to discuss. Especially m
 
 This website is designed for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website are the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
 
-Social media platforms such as instagram and snapchat has inspired the user experience for this website; use of minimal text and a combination of clips& images. The clips taken from youtube is the major focus of user experience.
-
 ### User Stories
 
 * i. 
