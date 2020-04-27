@@ -60,24 +60,30 @@ body {
 
 /*Gallery section*/
 
-#gallery {
-    clear: both;
+.gallery-header {
     margin-left: 1rem;
 }
 
 .gallery {
-    margin-top: 2rem;
+    clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
+}
+
+.gallery img{
     width: 100%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 5rem) {
     .gallery {
      column-count: 2;
     }
   }
+
+/*Quotes section*/
+
+
 
 /*Footer section*/
 
