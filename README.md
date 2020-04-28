@@ -6,11 +6,11 @@ Live Demo above
 
 ## Healthy living
 
-Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. The idea behind the creation of the website is providing a platform that brings together images plus clips and artistic quotes on mental, physical and nutrition health. General health contributes towards an individuals happiness and productivity in their daily lives personally and professionally. This site aims to act as an education tool plus act as a vehicle to learn more and improve users own general health.
+Health is such an important subject for all individuals to discuss. Especially mental health which is a subject gaining serious awareness in the public eye for the last few years. The idea behind the creation of the website is providing a platform that brings together images plus clips and quotes on mental, physical and nutrition health. General health contributes towards an individuals happiness and productivity in their daily lives personally and professionally. This site aims to act as an education tool plus a vehicle to learn more and improve users own general health.
 
 ## UX-
 
-This website is designed for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website are the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health. The site acts as a vehicle for users to look further into health via footer links and youtube clips.
+This website is designed for users who want to visit a site and learn more about the importance of mental, physical and nutritional health in a visual manner. The major substance of information in the website are the clips; the clips can vary from thirty seconds to sixty minutes. With the ultimate goal to push forward the discussion around health and inspire individuals to take control of their personal health.
 
 ### User Stories
 
@@ -43,10 +43,10 @@ https://github.com/michodgs24/1-health/issues/7#issue-601955934
 ## Technologies-
 
 * Wrote the code in git-pod. 
-* The two primary languages used are HTML and CSS. 
-* Font-awesome version 5.8.1, this is important as this provided the styling to the footer section with four different icons. This contributes to achieving user satisfaction for the site to look easy to look at. 
-* Applied bootstrap cdn version 4.4.1, the use of bootstrap is very important as this helped create a horizontal navigation bar. This looks to achieve user satisfaction to make the site easy to navigate.
-* Applied Jquery version: jquery-3.2.1.slim.min.js, cloud flare cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js and boostrap cdn version bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js these scripts were used to ensure the navigation bar button works once in mobile form.
+* Languages used: HTML and CSS. 
+* Font-awesome version 5.8.1- https://fontawesome.com/
+* Applied bootstrap cdn version 4.4.1- https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+* Applied Jquery version: jquery-3.2.1.slim.min.js, cloud flare: cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js and boostrap cdn version bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
 
 ## Testing-
 
@@ -59,8 +59,11 @@ Logged into different devices and tested my site link; which worked as intended.
 ### Testing - iiii. 
 Is it mobile friendly? Yes according to Google Test Tool: https://search.google.com/test/mobile-friendly?id=YCYiLZmaYPTNkRVsAGS0DA
 
-### Testing iiiii.
+### Testing - iiiii.
 Site was tested in safari, firefox and chrome. Site works as intended.
+
+### Testing - iiiiii.
+Tested html and css code formatting with https://validator.w3.org/. Only one formatting error, otherwise code is up to standard.
 
 ## Testing the site on different screen sizes: 
 
