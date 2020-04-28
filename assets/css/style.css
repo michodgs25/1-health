@@ -58,9 +58,11 @@ body {
     margin-top: 5rem;
 }
 
-/*Quotes*/
+/*Quotes section*/
 
-
+.quotes {
+    text-align: center;
+}
 
 /*Gallery section*/
 
