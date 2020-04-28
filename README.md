@@ -85,6 +85,7 @@ The user will need to have github and gitpod to deploy the site.
 ## issues and bugs-
 
 One formatting error on line 177: "lacks section heading".
+No other known issues.
 
 ## Acknowledgements-
 
@@ -98,7 +99,3 @@ All video content belong to YouTube and its respective creators. All images and 
 ## External Media 
 
 https://github.com/michodgs24/1-health/issues/2#issue-596175924
-
-## Texts used on website-
-
-https://github.com/michodgs24/1-health/issues/3#issue-596181724
