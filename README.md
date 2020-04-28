@@ -84,6 +84,7 @@ The user will need to have github and gitpod to deploy the site.
 ## issues and bugs-
 
 One formatting error on line 177: "lacks section heading".
+Initially viewing the site in mobile& tablet via google developer tools there is x-scroll. Refreshing the site resolves that issue.
 No other known issues.
 
 ## Acknowledgements-
