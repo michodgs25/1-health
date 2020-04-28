@@ -64,6 +64,11 @@ body {
     text-align: center;
 }
 
+.media img {
+    height: 3rem;
+    width: 3rem;
+}
+
 /*Gallery section*/
 
 .gallery-header {
