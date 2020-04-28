@@ -65,7 +65,6 @@ Site was tested in safari, firefox and chrome. Site works as intended.
 ### Testing - iiiiii.
 Tested html and css code formatting with https://validator.w3.org/. Only one formatting error, otherwise code is up to standard.
 
-
 ### Testing summary of device screens: 
 The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is consistent.
 
