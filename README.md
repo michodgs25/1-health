@@ -82,6 +82,10 @@ Log on to github, type into search bar: michodgs24/1-health, this will take the 
 The user can clone or download the project files via green button by the same name.
 The user will need to have github and gitpod to deploy the site.
 
+## issues and bugs-
+
+One formatting error on line 177: "lacks section heading".
+
 ## Acknowledgements-
 
 I'd like to acknowldge code institute love running walk through project and code institute whiskey mini walk through exercises.
