@@ -52,10 +52,10 @@ https://github.com/michodgs24/1-health/issues/7#issue-601955934
 
 ### Testing - i.
 Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. 
+
 ### Testing - ii. 
-On each brower changing the size of the browser to ensure the site maintained its structural integrity across different devices such as mobile or tablet. 
-### Testing - iii. 
-Logged into different devices and tested my site link; which worked as intended. 
+Opened google developer tools and toggled the site between various device screens.
+
 ### Testing - iiii. 
 Is it mobile friendly? Yes according to Google Test Tool: https://search.google.com/test/mobile-friendly?id=YCYiLZmaYPTNkRVsAGS0DA
 
@@ -65,9 +65,6 @@ Site was tested in safari, firefox and chrome. Site works as intended.
 ### Testing - iiiiii.
 Tested html and css code formatting with https://validator.w3.org/. Only one formatting error, otherwise code is up to standard.
 
-## Testing the site on different screen sizes: 
-
-The site is compatible with laptop and tablet screens, improvements to be made to mobile screen devices, used developer tools and the site is compatible with.
 
 ### Testing summary of device screens: 
 The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is consistent.
