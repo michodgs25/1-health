@@ -23,7 +23,7 @@ As a user I want the content to stand out from the background, so the site is ea
 
 ## Features, existing features and features left to implement
 
-
+The main features left to implement are more clips, as clips are the main substance of the site and engage viewers.
 
 ## Wire-Frames
 
@@ -48,7 +48,7 @@ https://github.com/michodgs24/1-health/issues/7#issue-601955934
 * Applied bootstrap cdn version 4.4.1- https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
 * Applied Jquery version: jquery-3.2.1.slim.min.js, cloud flare: cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js and boostrap cdn version bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
 
-## Testing-
+# Testing-
 
 ### Testing - i.
 Shared the link on google, internet explorer and yahoo to ensure the site looks and works as it should on different browers. 
@@ -56,21 +56,22 @@ Shared the link on google, internet explorer and yahoo to ensure the site looks 
 ### Testing - ii. 
 Opened google developer tools and toggled the site between various device screens.
 
-### Testing - iiii. 
+### Testing - iii. 
 Is it mobile friendly? Yes according to Google Test Tool: https://search.google.com/test/mobile-friendly?id=YCYiLZmaYPTNkRVsAGS0DA
 
-### Testing - iiiii.
+### Testing - iiii.
 Site was tested in safari, firefox and chrome. Site works as intended.
 
-### Testing - iiiiii.
+### Testing - iiiii.
 Tested html and css code formatting with https://validator.w3.org/. Only one formatting error, otherwise code is up to standard.
 
 ### Testing summary of device screens: 
-The sites links and interactive media all works as intended, the logo stays in the same position across all screen sizes. Navigation is consistent.
+The sites links and interactive media all works as intended.
 
 ## Version control-
 
 Version control was conducted through following consistent updates through git-pod to git-hub project page. 
+
 * i. Git add. 
 * ii. Git commit -m "insert message". 
 * iii. Git Push that updates the existing files in git-hub.
