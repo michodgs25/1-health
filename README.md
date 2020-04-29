@@ -23,7 +23,7 @@ As a user I want the content to stand out from the background, so the site is ea
 
 ## Features, existing features and features left to implement
 
-https://github.com/michodgs24/1-health/issues/1#issue-596106675
+
 
 ## Wire-Frames
 
