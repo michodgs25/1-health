@@ -28,13 +28,13 @@ h2{
     line-height: 1rem;
 }
 
-/*body*/
+/*------------------body section*/
 
 body {
     background-color: rgb(255, 240, 246);
 }
 
-/*Clips section*/
+/*-----------------Clips section*/
 
 #health-clips {
     margin-right: 1rem;
@@ -69,7 +69,7 @@ body {
     width: 4rem;
 }
 
-/*Gallery section*/
+/*-----------------Gallery section*/
 
 .gallery-header {
     margin-left: 1rem;
@@ -92,7 +92,7 @@ body {
     }
   }
 
-/*Footer section*/
+/*---------------Footer section*/
 
 footer {
     text-align: center;
@@ -131,4 +131,13 @@ i {
     padding: 5rem;
     margin: 1rem;
     text-align: center;
+}
+
+/*media queries*/
+/*----------------------------------------- reduce bag table size for mobile*/
+
+@media only screen and (max-width: 768px) {
+.clips {
+    font-size: 0.625em;
+     }
 }
